@@ -1,6 +1,7 @@
 title: The World of Worlorn
 description: A long-standing Dungeons & Dragons world by Mark Gadziko
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
 - jekyll-remote-theme
 header_pages:
