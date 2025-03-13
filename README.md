@@ -1,2 +1,2 @@
-# worlorn
-A hub for all things Worlorn
+# The World of Worlorn
+*A long-standing Dungeon's & Dragon's world by Mark Gadziko*
