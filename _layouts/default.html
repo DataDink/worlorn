@@ -18,10 +18,11 @@
     {% include head-custom.html %}
     <style>
       #title {
+        position: relative;
         padding: 2em 0 1em;
         margin-bottom: 1em;
-        text-stroke: 4px;
       }
+      #title > * { position: relative; }
       #title::before {
         content: '';
         position: absolute;
