@@ -54,8 +54,15 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
+          <nav>
+            <ul>
+              {% for file in site.navigation %}
+                <li>{{ file }}</li>
+              {% end %}
+            </ul>
+          </nav>
         </div>
-test
+
         {{ content }}
 
       </section>
