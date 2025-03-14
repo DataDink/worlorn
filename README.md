@@ -1,4 +1,4 @@
-# Worlorn Home
+# Worlorn
 
 Worlorn is a fantasy role playing campaign, active from 1979–90, 1992–3, 1995–99, and recently starting again June of 2002. Gaming tends to be face-to-face, but remote players contribute from a dozen states and overseas.
 
