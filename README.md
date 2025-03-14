@@ -12,8 +12,8 @@ Worlorn storylines incorporate recognizable legends from historical reality and 
 
 *Above all, we play to have fun*
 
-{% for nav in site.navigation %}
+# Contribute
 
-<a href="/worlorn/{{nav}}">{{ nav }}</a><br />
+You can help keep things up to date! 
 
-{% endfor %}
+This site is hosted on [github](https://github.com/DataDink/worlorn). To make changes or add a new file you can open a [pull-request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes to be approved by a moderator. There are no special skills required to contribute. The pages of this site are written in plain-text using [github-flavored MARKDOWN](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to keep things simple and accessible.
