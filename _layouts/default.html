@@ -22,7 +22,7 @@
         padding: 2em 0 1em;
         margin-bottom: 1em;
       }
-      section #title::before {
+      #title::before {
         content: '';
         position: absolute;
         background-image: url('/worlorn/assets/worlorn-banner.jpg');
@@ -32,7 +32,21 @@
         width: 100%; height: 100%;
         opacity: 0.2;
       }
-      section #title > * { position: relative; }
+      #title > * { position: relative; }
+      #title > hr { margin-bottom: 0; }
+      #title > nav { 
+        margin: 0; 
+        padding: 0 0 1em;
+      }
+      #title > nav > ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      #title > nav > ul > li {
+        padding: 0 0.5em 0 0.5em;
+        margin: 0;
+      }
     </style>
   </head>
   <body>
