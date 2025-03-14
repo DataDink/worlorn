@@ -17,3 +17,13 @@ Worlorn storylines incorporate recognizable legends from historical reality and 
 You can help keep things up to date! 
 
 This site is hosted on [github](https://github.com/DataDink/worlorn). To make changes or add a new file you can open a [pull-request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes to be approved by a moderator. There are no special skills required to contribute. The pages of this site are written in plain-text using [github-flavored MARKDOWN](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to keep things simple and accessible.
+
+The simplest steps for contributing:
+
+![fork button](assets/images/fork-button.jpg)
+
+* [Fork](https://github.com/DataDink/worlorn/fork) a copy of the site.
+* Edit, add, remove files as neccessary.
+* Make a pull-request with your changes.
+
+![pull request screen shot](assets/images/pull-request-ss.jpg)
