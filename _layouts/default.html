@@ -36,7 +36,7 @@
       #title > hr { margin-bottom: 0; }
       #title > nav { 
         margin: 0; 
-        padding: 0 0 1em;
+        padding: 0;
       }
       #title > nav > ul {
         display: flex;
@@ -73,7 +73,7 @@
           <nav>
             <ul>
               {% for file in site.navigation %}
-                <li>{{ file }}</li>
+                <li><a href="/worlorn/{{ file }}">{{ file }}</a></li>
               {% endfor %}
             </ul>
           </nav>
