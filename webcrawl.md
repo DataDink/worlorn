@@ -4,6 +4,67 @@
 
 **Root:** http://gadzikowski.com
 
+## 
+
+/worlorn/redlight<br />
+/worlorn/~wedge/worlorn<br />
+/worlorn/~guipago<br />
+/worlorn/x<br />
+/worlorn/wedge/wedge2<br />
+/worlorn/wedge/lios<br />
+/worlorn/wedge/wedge<br />
+/worlorn/wedge/ppt<br />
+/worlorn/wedge/tales<br />
+/worlorn/wedge/secret
+
+## .asp
+
+/worlorn/thestore/selection.asp
+
+## .cgi
+
+/worlorn/backwards/b3.cgi<br />
+/worlorn/backwards/image.cgi
+
+## .com
+
+/worlorn/JAdonahue@aol.com<br />
+/worlorn/sythalisk@aol.com<br />
+/worlorn/montolio@netcom.com<br />
+/worlorn/deborah.gadzikowski@agilesoft.com<br />
+/worlorn/besgar@aol.com<br />
+/worlorn/wendy.werges@eng.sun.com<br />
+/worlorn/dave@visionary.com<br />
+/worlorn/foodbag@aol.com<br />
+/worlorn/jadonahue@mail.inebraska.com<br />
+/worlorn/Patrick_Tinker@cgu-hawkeye.com<br />
+/worlorn/q__continuum@msn.com<br />
+/worlorn/deborah.gadzikowski@castelle.com<br />
+/worlorn/worlorn-webmaster@gadzikowski.com
+
+## .edu
+
+/worlorn/rck@lclark.edu
+
+## .gif
+
+/worlorn/images/mortalcoil.gif<br />
+/worlorn/images/pattern-setup.gif<br />
+/worlorn/images/mestea.gif<br />
+/worlorn/images/mestea-legend.gif<br />
+/worlorn/images/gdiskr.gif<br />
+/worlorn/images/bullet0.gif<br />
+/worlorn/images/anael.gif<br />
+/images/gdisk.gif<br />
+/images/xparent.gif<br />
+/logos/Logo_40wht.gif<br />
+/images/pattern.gif<br />
+/images/dancer.gif<br />
+/images/wsun.gif<br />
+/images/arrow_up.gif
+
+## .html
+
 /worlorn/people.html<br />
 /worlorn/places.html<br />
 /worlorn/people.html<br />
@@ -15,7 +76,6 @@
 /worlorn/constellations.html<br />
 /worlorn/trump.html<br />
 /worlorn/trumplist.html<br />
-/worlorn/worlorn/wedge/ppt/trump.txt<br />
 /worlorn/trumplist0.html<br />
 /worlorn/hissarlik00.html<br />
 /worlorn/trumplist1.html<br />
@@ -109,9 +169,7 @@
 /worlorn/brightside.html<br />
 /worlorn/void.html<br />
 /worlorn/dreamblood.html<br />
-/worlorn/fourth_companion.txt<br />
 /worlorn/redshoes.html<br />
-/worlorn/thestore/selection.asp<br />
 /worlorn/turf.html<br />
 /worlorn/turf_tutorial.html<br />
 /worlorn/greyspace.html<br />
@@ -134,7 +192,6 @@
 /worlorn/yellowcard.html<br />
 /worlorn/pattern.html<br />
 /worlorn/pattern-he.html<br />
-/worlorn/images/pattern-setup.gif<br />
 /worlorn/kolwynia.html<br />
 /worlorn/kolwynia_vic.html<br />
 /worlorn/senethar.html<br />
@@ -149,7 +206,6 @@
 /worlorn/lakedreams.html<br />
 /worlorn/dryland.html<br />
 /worlorn/~smithsr/Home.html<br />
-/worlorn/redlight<br />
 /worlorn/elidor.html<br />
 /worlorn/flambeau.html<br />
 /worlorn/churchtroy.html<br />
@@ -160,9 +216,7 @@
 /worlorn/kaldamaaren.html<br />
 /worlorn/goldbowl.html<br />
 /worlorn/llewghund.html<br />
-/worlorn/~wedge/worlorn<br />
 /worlorn/~wedge/worlorn/wedge/wedge-970312.html<br />
-/worlorn/dolbadarn.htmlh<br />
 /worlorn/losendos.html<br />
 /worlorn/mestea.html<br />
 /worlorn/starchamber.html<br />
@@ -178,8 +232,6 @@
 /worlorn/watersea.html<br />
 /worlorn/hissarlik17.html<br />
 /worlorn/dominions.html<br />
-/worlorn/JAdonahue@aol.com<br />
-/worlorn/sythalisk@aol.com<br />
 /worlorn/domains.html<br />
 /worlorn/locnar.html<br />
 /worlorn/smallgreenthing.html<br />
@@ -251,11 +303,9 @@
 /worlorn/dust9911241034kalkin.html<br />
 /worlorn/dust9911252005blood.html<br />
 /worlorn/632.html<br />
-/worlorn/ricercar@null.net<br />
 /worlorn/aman.html<br />
 /worlorn/cradle.html<br />
 /worlorn/daortwen.html<br />
-/worlorn/backwards/b3.cgi<br />
 /worlorn/dragonisles.html<br />
 /worlorn/fountainhead.html<br />
 /worlorn/hell.html<br />
@@ -287,7 +337,6 @@
 /worlorn/hissarlik10.html<br />
 /worlorn/hissarlik12.html<br />
 /worlorn/gateway.html<br />
-/worlorn/goldroad.html%3Egold%20road%3C/a%3E%20/%3Ca%20href=<br />
 /worlorn/hissarli03.html<br />
 /worlorn/lifehutch.html<br />
 /worlorn/hissarlik05.html<br />
@@ -320,23 +369,6 @@
 /worlorn/mimes.html<br />
 /worlorn/glossary.html<br />
 /worlorn/redphone.html<br />
-/worlorn/montolio@netcom.com<br />
-/worlorn/wedge@netgate.net<br />
-/worlorn/deborah.gadzikowski@agilesoft.com<br />
-/worlorn/guipago@netgate.net<br />
-/worlorn/thehangedman@netgate.net<br />
-/worlorn/besgar@aol.com<br />
-/worlorn/wendy.werges@eng.sun.com<br />
-/worlorn/prism@sonic.net<br />
-/worlorn/dave@visionary.com<br />
-/worlorn/eric@lindahl.net<br />
-/worlorn/foodbag@aol.com<br />
-/worlorn/q@uswest.net<br />
-/worlorn/jadonahue@mail.inebraska.com<br />
-/worlorn/lyncat@frontiernet.net<br />
-/worlorn/Patrick_Tinker@cgu-hawkeye.com<br />
-/worlorn/rck@lclark.edu<br />
-/worlorn/dasher@pcpartner.net<br />
 /worlorn/muses.html<br />
 /worlorn/abelard.html<br />
 /worlorn/anael.html<br />
@@ -393,7 +425,6 @@
 /worlorn/troy.html<br />
 /worlorn/yama.html<br />
 /worlorn/compact.html<br />
-/worlorn/pdf/compacti.pdf<br />
 /worlorn/crotoan.html<br />
 /worlorn/nitefall.html<br />
 /worlorn/deathgod.html<br />
@@ -405,11 +436,8 @@
 /worlorn/greatweapons.html<br />
 /worlorn/hermione.html<br />
 /worlorn/knock.html<br />
-/worlorn/~guipago<br />
 /worlorn/ko.html<br />
 /worlorn/renfrew.html<br />
-/worlorn/q__continuum@msn.com<br />
-/worlorn/deborah.gadzikowski@castelle.com<br />
 /worlorn/shalomnis.html<br />
 /worlorn/shan_shanagate.html<br />
 /worlorn/waldann.html<br />
@@ -421,7 +449,6 @@
 /worlorn/clio.html<br />
 /worlorn/crimson.html<br />
 /worlorn/darkagnes.html<br />
-/worlorn/x<br />
 /worlorn/hektor.html<br />
 /worlorn/kalkin.html<br />
 /worlorn/klinure.html<br />
@@ -454,23 +481,15 @@
 /worlorn/typhon.html<br />
 /worlorn/x.html<br />
 /worlorn/xcalis.html<br />
-/worlorn/worlorn-webmaster@gadzikowski.com<br />
 /worlorn/places.html<br />
 /worlorn/things.html<br />
 /worlorn/events.html<br />
 /worlorn/groups.html<br />
 /worlorn/glossary.html<br />
-/<br />
 /worlorn/trump.html<br />
 /worlorn/trumplist3.html<br />
 /worlorn/erin.html<br />
 /worlorn/wedge/index.html<br />
-/worlorn/wedge/wedge2<br />
-/worlorn/wedge/lios<br />
-/worlorn/wedge/wedge<br />
-/worlorn/wedge/ppt<br />
-/worlorn/wedge/tales<br />
-/worlorn/wedge/secret<br />
 /worlorn/n_priest.html<br />
 /worlorn/n_p_making.html<br />
 /worlorn/n_p_phoenix.html<br />
@@ -499,9 +518,38 @@
 /worlorn/activity1999.html<br />
 /worlorn/activity1998.html<br />
 /worlorn/activity1997.html<br />
-/pdf/compact.pdf<br />
 /worlorn/pattern-he.html<br />
 /worlorn/dance.html<br />
 /oimota.html<br />
-/webmaster@soundmark.net<br />
 /worlorn.html
+
+## .html%3Egold%20road%3C/a%3E%20/%3Ca%20href=
+
+/worlorn/goldroad.html%3Egold%20road%3C/a%3E%20/%3Ca%20href=
+
+## .htmlh
+
+/worlorn/dolbadarn.htmlh
+
+## .net
+
+/worlorn/ricercar@null.net<br />
+/worlorn/wedge@netgate.net<br />
+/worlorn/guipago@netgate.net<br />
+/worlorn/thehangedman@netgate.net<br />
+/worlorn/prism@sonic.net<br />
+/worlorn/eric@lindahl.net<br />
+/worlorn/q@uswest.net<br />
+/worlorn/lyncat@frontiernet.net<br />
+/worlorn/dasher@pcpartner.net<br />
+/webmaster@soundmark.net
+
+## .pdf
+
+/worlorn/pdf/compacti.pdf<br />
+/pdf/compact.pdf
+
+## .txt
+
+/worlorn/worlorn/wedge/ppt/trump.txt<br />
+/worlorn/fourth_companion.txt
