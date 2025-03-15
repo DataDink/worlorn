@@ -16,46 +16,7 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
-    <style>
-      section {
-        margin-top: 0px;
-      }
-      section #title {
-        position: relative;
-        padding: 2em 0 0.2em;
-        margin-bottom: 1em;
-        text-shadow: 1px 0 red, 0 1px red, -1px 0 black, 0 -1px black;
-      }
-      #title::before {
-        content: '';
-        position: absolute;
-        background-image: url('/worlorn/assets/images/worlorn-banner.jpg');
-        background-size: cover;
-        background-position: center bottom;
-        top: 0; left: 0; bottom: 0; right: 0;
-        width: 100%; height: 100%;
-        opacity: 0.4;
-      }
-      #title > * { position: relative; }
-      #title > hr { margin-bottom: 0; }
-      #title > nav { 
-        margin: 0; 
-        padding: 0;
-        text-shadow: none;
-        background-color: rgba(0,0,0,0.5);
-      }
-      #title > nav > ul {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        margin: 0;
-        padding: 0;
-      }
-      #title > nav > ul > li {
-        padding: 0 0.5em 0 0.5em;
-        margin: 0;
-      }
-    </style>
+    <link rel="stylesheet" href="/worlorn/assets/css/theme-tweaks.css" />
   </head>
   <body>
     <div class="wrapper">
