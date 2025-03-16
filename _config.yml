@@ -1,7 +1,7 @@
 title: Worlorn
 description: The long-standing Dungeons & Dragons world by Mark Gadziko
 remote_theme: pages-themes/midnight@v0.2.0
-plugins:
+plugins: 
 - jekyll-remote-theme
 navigation:
 - personalities
