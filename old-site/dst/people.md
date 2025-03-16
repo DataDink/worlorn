@@ -6,7 +6,7 @@ creatures of light and dark
 
 |  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
 | ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
-| •                      | •                            | •              | •                    | •                  | 
+| &nbsp;                 | &nbsp;                       | &nbsp;         | &nbsp;               | &nbsp;             | 
 
 #### 
 
@@ -14,7 +14,7 @@ creatures of light and dark
 
 |  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
 | ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
-| •                      | •                            | •              | •                    | •                  | 
+| &nbsp;                 | &nbsp;                       | &nbsp;         | &nbsp;               | &nbsp;             | 
 
 ####  [muses](muses.md) 
 
@@ -22,7 +22,7 @@ creatures of light and dark
 
 |  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
 | ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
-| •                      | •                            | •              | •                    | •                  | 
+| &nbsp;                 | &nbsp;                       | &nbsp;         | &nbsp;               | &nbsp;             | 
 
 ####  [wildmagic](wildmagic.md) 
 
@@ -30,7 +30,7 @@ creatures of light and dark
 
 |  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
 | ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
-| •                      | •                            | •              | •                    | •                  | 
+| &nbsp;                 | &nbsp;                       | &nbsp;         | &nbsp;               | &nbsp;             | 
 
 ####  recognized in the  [compact](compact.md) 
 
@@ -38,7 +38,7 @@ creatures of light and dark
 
 |  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
 | ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
-| •                      | •                            | •              | •                    | •                  | 
+| &nbsp;                 | &nbsp;                       | &nbsp;         | &nbsp;               | &nbsp;             | 
 
 #### 
 
@@ -46,10 +46,10 @@ creatures of light and dark
 
 |  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
 | ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
-| •                      | •                            | •              | •                    | •                  | 
+| &nbsp;                 | &nbsp;                       | &nbsp;         | &nbsp;               | &nbsp;             | 
 
 | personalities |  [places](places.md)  |  [things](things.md)  |  [events](events.md)  | 
 | ------------- | --------------------- | --------------------- | --------------------- | 
-| •             | •                     | •                     | •                     | 
+| &nbsp;        | &nbsp;                | &nbsp;                | &nbsp;                | 
 
  

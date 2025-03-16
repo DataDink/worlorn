@@ -6,7 +6,7 @@
 
 |  [n_fighter](n_fighter.md)  |  [n_priest](n_priest.md)  |  [n_artisan](n_artisan.md)  | **farmer** |  [n_merchant](n_merchant.md)  | 
 | --------------------------- | ------------------------- | --------------------------- | ---------- | ----------------------------- | 
-| •                           | •                         | •                           | •          | •                             | 
+| &nbsp;                      | &nbsp;                    | &nbsp;                      | &nbsp;     | &nbsp;                        | 
 >
 >   The greatest of the Necrodemian agricultural houses are Cramer and Hanks. Even in times of war, severe drought, continental famine, and eternal winter, these two agricultural houses have proven surprisingly able to supply their surrounding areas with foodstuffs sufficient so that their local cultures survived intact. 
 >

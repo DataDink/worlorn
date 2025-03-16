@@ -6,7 +6,7 @@ places of domination
 
 |  [turf](turf)  |  [congruent](congruent)  |  [indefinite](indefinite)  |  [compact](compact)  | 
 | -------------- | ------------------------ | -------------------------- | -------------------- | 
-| •              | •                        | •                          | •                    | 
+| &nbsp;         | &nbsp;                   | &nbsp;                     | &nbsp;               | 
 
 ###  under [oimota](oimota.md) ’s 16 dominators
 
@@ -33,7 +33,7 @@ see also  [dominions](dominions.md)  of turf details
 
 |  [turf](turf)  |  [congruent](congruent)  |  [indefinite](indefinite)  |  [compact](compact)  | 
 | -------------- | ------------------------ | -------------------------- | -------------------- | 
-| •              | •                        | •                          | •                    | 
+| &nbsp;         | &nbsp;                   | &nbsp;                     | &nbsp;               | 
 
 ###  [domains](domains.md) 
 
@@ -56,7 +56,7 @@ see also  [dominions](dominions.md)  of turf details
 
 |  [turf](turf)  |  [congruent](congruent)  |  [indefinite](indefinite)  |  [compact](compact)  | 
 | -------------- | ------------------------ | -------------------------- | -------------------- | 
-| •              | •                        | •                          | •                    | 
+| &nbsp;         | &nbsp;                   | &nbsp;                     | &nbsp;               | 
 
 ###  [wasteland](wasteland.md) : defined non-domains
 
@@ -70,7 +70,7 @@ see also  [dominions](dominions.md)  of turf details
 
 |  [turf](turf)  |  [congruent](congruent)  |  [indefinite](indefinite)  |  [compact](compact)  | 
 | -------------- | ------------------------ | -------------------------- | -------------------- | 
-| •              | •                        | •                          | •                    | 
+| &nbsp;         | &nbsp;                   | &nbsp;                     | &nbsp;               | 
 
 ###  dominions
 
@@ -82,7 +82,7 @@ see also  [dominions](dominions.md)  of turf details
 
 |  [turf](turf)  |  [congruent](congruent)  |  [indefinite](indefinite)  |  [compact](compact)  | 
 | -------------- | ------------------------ | -------------------------- | -------------------- | 
-| •              | •                        | •                          | •                    | 
+| &nbsp;         | &nbsp;                   | &nbsp;                     | &nbsp;               | 
 
 ###  recognized in the [compact](compact.md) 
 
@@ -90,7 +90,7 @@ see also  [dominions](dominions.md)  of turf details
 
 |  [turf](turf)  |  [congruent](congruent)  |  [indefinite](indefinite)  |  [compact](compact)  | 
 | -------------- | ------------------------ | -------------------------- | -------------------- | 
-| •              | •                        | •                          | •                    | 
+| &nbsp;         | &nbsp;                   | &nbsp;                     | &nbsp;               | 
 
  [top](#top) 
 

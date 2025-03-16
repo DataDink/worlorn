@@ -42,6 +42,6 @@
 
 |  [n_fighter](n_fighter.md)  | **cleric** |  [n_artisan](n_artisan.md)  |  [n_farmer](n_farmer.md)  |  [n_merchant](n_merchant.md)  | 
 | --------------------------- | ---------- | --------------------------- | ------------------------- | ----------------------------- | 
-| •                           | •          | •                           | •                         | •                             | 
+| &nbsp;                      | &nbsp;     | &nbsp;                      | &nbsp;                    | &nbsp;                        | 
 
  

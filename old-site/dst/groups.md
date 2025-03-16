@@ -8,13 +8,13 @@ artisans
 
 |  [n_mage](n_mage.md)  |  [n_deceiver](n_deceiver.md)  |  [n_thief](n_thief.md)  |  [n_assassin](n_assassin.md)  |  [n_bonze](n_bonze.md)  | 
 | --------------------- | ----------------------------- | ----------------------- | ----------------------------- | ----------------------- | 
-| •                     | •                             | •                       | •                             | •                       | 
+| &nbsp;                | &nbsp;                        | &nbsp;                  | &nbsp;                        | &nbsp;                  | 
 
 bonze
 
 |  [n_arm](n_arm.md)  |  [n_benegesserit](n_benegesserit.md)  |  [n_darkangel](n_darkangel.md)  |  [n_b_killerbonze](n_b_killerbonze.md)  |  [n_stealthmaster](n_stealthmaster.md)  | 
 | ------------------- | ------------------------------------- | ------------------------------- | --------------------------------------- | --------------------------------------- | 
-| •                   | •                                     | •                               | •                                       | •                                       | 
+| &nbsp;              | &nbsp;                                | &nbsp;                          | &nbsp;                                  | &nbsp;                                  | 
 
 clergy
 
@@ -29,31 +29,31 @@ estates
 
 |  [n_fighter](n_fighter.md)  |  [n_priest](n_priest.md)  |  [n_artisan](n_artisan.md)  |  [n_farmer](n_farmer.md)  |  [n_merchant](n_merchant.md)  | 
 | --------------------------- | ------------------------- | --------------------------- | ------------------------- | ----------------------------- | 
-| •                           | •                         | •                           | •                         | •                             | 
+| &nbsp;                      | &nbsp;                    | &nbsp;                      | &nbsp;                    | &nbsp;                        | 
 
 fighters
 
-|  [n_f_bladesman](n_f_bladesman.md)  |  [n_f_crusader](n_f_crusader.md)  |  [n_f_samurai](n_f_samurai.md)  |  [n_f_ranger](n_f_ranger.md)  |   | 
-| ----------------------------------- | --------------------------------- | ------------------------------- | ----------------------------- | - | 
-| •                                   | •                                 | •                               | •                             | • | 
+|  [n_f_bladesman](n_f_bladesman.md)  |  [n_f_crusader](n_f_crusader.md)  |  [n_f_samurai](n_f_samurai.md)  |  [n_f_ranger](n_f_ranger.md)  |        | 
+| ----------------------------------- | --------------------------------- | ------------------------------- | ----------------------------- | ------ | 
+| &nbsp;                              | &nbsp;                            | &nbsp;                          | &nbsp;                        | &nbsp; | 
 
 mages
 
 |  [n_m_elfar](n_m_elfar.md)  |  [n_m_focus](n_m_focus.md)  |  [n_m_necrodemian](n_m_necrodemian.md)  |  [n_m_tranodeli](n_m_tranodeli.md)  |  [n_m_telaarian](n_m_telaarian.md)  | 
 | --------------------------- | --------------------------- | --------------------------------------- | ----------------------------------- | ----------------------------------- | 
-| •                           | •                           | •                                       | •                                   | •                                   | 
+| &nbsp;                      | &nbsp;                      | &nbsp;                                  | &nbsp;                              | &nbsp;                              | 
 
 slayers
 
 |  [n_a_bladerunner](n_a_bladerunner.md)  |  [n_a_brotherhood](n_a_brotherhood.md)  |  [n_darkangel](n_darkangel.md)  |  [n_a_stormtrooper](n_a_stormtrooper.md)  |  [n_stealthmaster](n_stealthmaster.md)  | 
 | --------------------------------------- | --------------------------------------- | ------------------------------- | ----------------------------------------- | --------------------------------------- | 
-| •                                       | •                                       | •                               | •                                         | •                                       | 
+| &nbsp;                                  | &nbsp;                                  | &nbsp;                          | &nbsp;                                    | &nbsp;                                  | 
 
 thieves
 
-|   |  [n_t_acreon](n_t_acreon.md)  |  [n_t_owsla](n_t_owsla.md)  |  [n_t_upright](n_t_upright.md)  |   | 
-| - | ----------------------------- | --------------------------- | ------------------------------- | - | 
-| • | •                             | •                           | •                               | • | 
+|        |  [n_t_acreon](n_t_acreon.md)  |  [n_t_owsla](n_t_owsla.md)  |  [n_t_upright](n_t_upright.md)  |        | 
+| ------ | ----------------------------- | --------------------------- | ------------------------------- | ------ | 
+| &nbsp; | &nbsp;                        | &nbsp;                      | &nbsp;                          | &nbsp; | 
 
  **worlorn system's  [domains](domains.md) **
 

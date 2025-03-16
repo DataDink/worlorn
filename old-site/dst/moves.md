@@ -6,7 +6,7 @@ knowing the dancer from the dance
 
 |  [game](game.md)  |  [moves](moves.md)  |  [players](players.md)  |  [hosts](hosts.md)  |  [x](x.md)  | 
 | ----------------- | ------------------- | ----------------------- | ------------------- | ----------- | 
-| •                 | •                   | •                       | •                   | •           | 
+| &nbsp;            | &nbsp;              | &nbsp;                  | &nbsp;              | &nbsp;      | 
 
  - [roland](roland.md) 
 
@@ -22,6 +22,6 @@ normally the *er-per’henne* Blood and Dust move behind the [scenes] and once i
 
 |  [dance](dance.md)  |  [dreams](dreams.md)  |  [history](history.md)  |  [astronomy](astronomy.md)  |  [comedy](comedy.md)  | 
 | ------------------- | --------------------- | ----------------------- | --------------------------- | --------------------- | 
-| •                   | •                     | •                       | •                           | •                     | 
+| &nbsp;              | &nbsp;                | &nbsp;                  | &nbsp;                      | &nbsp;                | 
 
  

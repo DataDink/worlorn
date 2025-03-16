@@ -6,7 +6,7 @@ muse keys
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
-| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
+| &nbsp;              | &nbsp;                  | &nbsp;                      | &nbsp;                        | &nbsp;                    | &nbsp;                    | &nbsp;                    | &nbsp;                    | &nbsp;                    | &nbsp;                        | 
 
 ### yellow card strange attractors
 
@@ -50,6 +50,6 @@ muse inspiriation
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
-| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
+| &nbsp;              | &nbsp;                  | &nbsp;                      | &nbsp;                        | &nbsp;                    | &nbsp;                    | &nbsp;                    | &nbsp;                    | &nbsp;                    | &nbsp;                        | 
 
  

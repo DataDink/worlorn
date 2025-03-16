@@ -6,7 +6,7 @@ knowing the dancer from the dance
 
 |  [game](game.md)  |  [moves](moves.md)  |  [players](players.md)  |  [hosts](hosts.md)  |  [x](x.md)  | 
 | ----------------- | ------------------- | ----------------------- | ------------------- | ----------- | 
-| •                 | •                   | •                       | •                   | •           | 
+| &nbsp;            | &nbsp;              | &nbsp;                  | &nbsp;              | &nbsp;      | 
 
 - [digriz](digriz.md) 
 

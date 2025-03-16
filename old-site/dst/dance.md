@@ -6,7 +6,7 @@ rise of Terpsichore
 
 | **dance** |  [dreams](dreams.md)  |  [history](history.md)  |  [astronomy](astronomy.md)  |  [comedy](comedy.md)  | 
 | --------- | --------------------- | ----------------------- | --------------------------- | --------------------- | 
-| •         | •                     | •                       | •                           | •                     | 
+| &nbsp;    | &nbsp;                | &nbsp;                  | &nbsp;                      | &nbsp;                | 
 
  - [roland](roland.md) 
 

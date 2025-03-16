@@ -43,6 +43,6 @@
 
 |  [n_fighter](n_fighter.md)  |  [n_priest](n_priest.md)  |  [n_artisan](n_artisan.md)  |  [n_farmer](n_farmer.md)  |  [n_merchant](n_merchant.md)  | 
 | --------------------------- | ------------------------- | --------------------------- | ------------------------- | ----------------------------- | 
-| •                           | •                         | •                           | •                         | •                             | 
+| &nbsp;                      | &nbsp;                    | &nbsp;                      | &nbsp;                    | &nbsp;                        | 
 
  

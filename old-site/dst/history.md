@@ -6,7 +6,7 @@ rise and fall of Clio
 
 |  [dance](dance.md)  |  [dreams](dreams.md)  | **history** |  [astronomy](astronomy.md)  |  [comedy](comedy.md)  | 
 | ------------------- | --------------------- | ----------- | --------------------------- | --------------------- | 
-| •                   | •                     | •           | •                           | •                     | 
+| &nbsp;              | &nbsp;                | &nbsp;      | &nbsp;                      | &nbsp;                | 
 
  alleged memoirs inspiring the *arduin grimoire* of  [tiresias](tiresias.md)  
 

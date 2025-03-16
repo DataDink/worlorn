@@ -6,7 +6,7 @@ by t. s. eliot
 
 |  [ground](ground)  |  [void](void)  |  [fire](fire)  |  [water](water)  |  [wind](wind)  | 
 | ------------------ | -------------- | -------------- | ---------------- | -------------- | 
-| •                  | •              | •              | •                | •              | 
+| &nbsp;             | &nbsp;         | &nbsp;         | &nbsp;           | &nbsp;         | 
 
  April is the cruellest month, breeding
 
