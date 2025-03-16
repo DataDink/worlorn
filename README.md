@@ -20,10 +20,10 @@ This site is hosted on [github](https://github.com/DataDink/worlorn). To make ch
 
 The simplest steps for contributing:
 
-![fork button](assets/images/fork-button.jpg)
+![fork button](site/images/fork-button.jpg)
 
 * [Fork](https://github.com/DataDink/worlorn/fork) a copy of the site.
 * Edit, add, remove files as neccessary.
 * Make a pull-request with your changes.
 
-![pull request screen shot](assets/images/pull-request-ss.jpg)
+![pull request screen shot](site/images/pull-request-ss.jpg)
