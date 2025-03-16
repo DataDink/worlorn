@@ -60,6 +60,7 @@ copy();
 
 function cleanup(markdown) {
   return markdown
+    .replace(/~guipago/g, 'guipago')
     .replace(/\n\|(  \[people\]\(people\.md\)| \*\*personalities\*\*)[\s\S]+?\n\n/g, '\n\n')
     .replace(/^\s*?$/gm, '')
     .replace(/(\n\n+)/g, '\n\n')
