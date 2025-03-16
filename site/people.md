@@ -1,4 +1,4 @@
-# ![wsun](../images/wsun-icon.png) Worlorn Entities
+# ![wsun](images/wsun-icon.png) Worlorn Entities
 
 *creatures of light and dark*
 
