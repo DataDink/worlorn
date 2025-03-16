@@ -2,12 +2,10 @@
 
 # dust in the wind
 
-
-
  life
 
 ```
-		
+
 Turf holders, please join me in stopping the Dust Bitch. With your help I
 wish to take the following actions:
 (1)all DUST that falls on the EARTH is automatically Reborn. 
@@ -20,28 +18,9 @@ I further do decree : Rebirth in all it's forms is withheld from Chrysofar,
 Last Defender of Troy and all her minions.
 Holy Blood Phoenix 
 Blacksword
-		
-	
+
 ```
-
- 
-
-
-
-
 
   [dustinthewind](dustinthewind.md)  [dust_traffic](dust_traffic.md) 
 
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
  
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

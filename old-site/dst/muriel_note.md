@@ -2,15 +2,12 @@
 
 # note to muriel
 
-
-
  girl talk
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
+
 Date: Thu, 14 Oct 1999 16:14:33 -0700
 From: Threnody
 TO: Muriel
@@ -91,22 +88,7 @@ At 04:54 PM 10/3/99 -0700, Muriel wrote:
 >
 >love ya bye,
 >Muriel
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

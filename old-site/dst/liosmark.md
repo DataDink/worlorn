@@ -2,12 +2,10 @@
 
 # lios marks
 
-
-
  consulting the wisdom of the ancestors
 
 ```
-		
+
 Subject: lios mark research by Ryndall
 > consult the wisdom of the Qu'al Mark [& Swan Mark] on the subject of 
 > morganti weapons
@@ -70,22 +68,7 @@ named.
 No Swan wisdom is passed about Padraig after the thirteenth year of
 Necrodemus, when the Coven Angel slew a Dark Angel brother (along with the
 spirit possessing him).
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

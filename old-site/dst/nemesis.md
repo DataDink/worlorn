@@ -2,8 +2,6 @@
 
 # nemesis
 
-
-
  My beloved is Three
 
  Three yet only one—
@@ -11,9 +9,8 @@
  Many things appear as three,
 
  Which are no more than one.
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
 
@@ -27,15 +24,8 @@ X-VMS-To: MARK
 outsides have been taken off. The purpose of the skeleton is something to
 hitch meat to."
 Nemesis thought that was funny. Ah, out of the mouths of babes...
-		
-	
+
 ```
-
- 
-
-
-
-
 
  big bad nemesis
 
@@ -46,17 +36,3 @@ Nemesis thought that was funny. Ah, out of the mouths of babes...
  as the dead come home.
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1999 mark gilbert gadzikowski
-
-all rights reserved

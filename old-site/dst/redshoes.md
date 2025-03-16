@@ -2,24 +2,9 @@
 
 # red shoes
 
-
-
 be careful what you ask for
 
-#########  
-
-> 
-> 	To cause the Muse of Dance and the Muse of Dream to fuse into one being.
-> 	Hypothetically speaking that is. If it were even possibel. Hee, hee, what
-> 	lovely havok THAT would wreak!! 
-> -Chrysofar
-> 
-
- 
-
- 
- 
-
+#########  > > To cause the Muse of Dance and the Muse of Dream to fuse into one being. > Hypothetically speaking that is. If it were even possibel. Hee, hee, what > lovely havok THAT would wreak!! > -Chrysofar > 
 
 ```
 Oh she move like the Diva do
@@ -76,19 +61,3 @@ You gotta dance.
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
- [FIXME: selection](assets/selection.asp?SELECTION_ID=053737) 
-
-all rights reserved

@@ -2,15 +2,12 @@
 
 # dark agnes
 
-
-
   [shan_shanagate](shan_shanagate.md) ’s beggars game
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
+
 I saw her first in a beggar’s game
 Her eyes were wild but her laugh was tame
 Those people knew her by another name
@@ -47,22 +44,7 @@ Deep in my heart she fell
 The spell is broken and the chains fall free
 Finally my heart has come home to me
 It seems I’ve waited an eternity
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## song copyright © 1979 dan fogelberg
-
- all rights reserved

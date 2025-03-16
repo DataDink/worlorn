@@ -2,15 +2,12 @@
 
 # dust in the wind
 
-
-
  water of life
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
+
 At 05:39 PM 11/18/99 -0600, Blacksword wrote:
 >Turf holders, please join me in stopping the Dust Bitch. With your help I
 >wish to take the following actions:
@@ -40,28 +37,9 @@ from Crosswinds. Let no creature of Crosswinds drink of water to prolong its lif
 but rather die for the lack of it evermore.
 Let it be so.
 Princess Llewellya of Watersea
-		
-	
+
 ```
-
- 
-
-
-
-
 
   [dustinthewind](dustinthewind.md)  [dust_traffic](dust_traffic.md) 
 
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
  
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

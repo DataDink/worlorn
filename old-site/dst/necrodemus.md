@@ -2,118 +2,63 @@
 
 # necrodemus emperors
 
-
-
  lawful sovereigns of lartroxia
-
-![xparent](assets/xparent.gif)  **Necrodemus I**
+>
+>   **Necrodemus I**
 
  sovereign NC 0–13 
-
-
-
-
-
-
-
-  ![xparent](assets/xparent.gif)  The northlander Necrodemus founded the Necrodemian Empire, forging a lawful empire with the human armies of the warlord Timujin Khan, and the armies of darkness lead by Vannik.
-
-  ![xparent](assets/xparent.gif)  Rumored to have been turned to Blood on the day of the Red Dawn in the year NC 13, the Emperor would have ended his days in a place called  [hissarlik](hissarlik.md) . 
-
-
-
-
+>
+>   The northlander Necrodemus founded the Necrodemian Empire, forging a lawful empire with the human armies of the warlord Timujin Khan, and the armies of darkness lead by Vannik.
+>
+>   Rumored to have been turned to Blood on the day of the Red Dawn in the year NC 13, the Emperor would have ended his days in a place called  [hissarlik](hissarlik.md) . 
 
  **Necrodemus II**
 
  sovereign NC 13–14 
-
-
-
-
-
-  ![xparent](assets/xparent.gif)  Necrodemus I and Lorelei, his Bird concubine, had a baby son. On the Red Dawn,  [roland](roland.md)  was proclaimed Emperor Necrodemus II’s Regent, because the kid was unable to govern, still peeing his diapers that year, and all the other powerful folk had disappeared.
-
-  ![xparent](assets/xparent.gif)   [roland](roland.md)  never said yes to the Regency, but he never said no. A kav elfar pogrom in the years of  [roland](roland.md) ’s Regency was nearly responsible for human and pellinese genocide. If Helen the Dark had not attacked the Empire with her Dark Elf armies, the Kav Elfar would have had no reason to stop subjugating the non-elf Necrodemian population.
-
-  ![xparent](assets/xparent.gif)  The Childe Necrodemus was said to have lived to see his second birthday, but what he was called on his naming day is not known. 
-
-
-
-
+>
+>   Necrodemus I and Lorelei, his Bird concubine, had a baby son. On the Red Dawn,  [roland](roland.md)  was proclaimed Emperor Necrodemus II’s Regent, because the kid was unable to govern, still peeing his diapers that year, and all the other powerful folk had disappeared.
+>
+>    [roland](roland.md)  never said yes to the Regency, but he never said no. A kav elfar pogrom in the years of  [roland](roland.md) ’s Regency was nearly responsible for human and pellinese genocide. If Helen the Dark had not attacked the Empire with her Dark Elf armies, the Kav Elfar would have had no reason to stop subjugating the non-elf Necrodemian population.
+>
+>   The Childe Necrodemus was said to have lived to see his second birthday, but what he was called on his naming day is not known. 
 
  **Necrodemus III**
 
  sovereign NC 13– *NC 28?* 
-
-
-
-
-
-  ![xparent](assets/xparent.gif)  Severian, Necrodemus III, was the first  [nostoi](nostoi.md)  to escape the prison of Hissarlik. 
-
-  ![xparent](assets/xparent.gif)  According to legend, Severian stormed into the Enseljos palace and  [morganti](morganti.md) ’d the baby while  [roland](roland.md)  escaped the back way. Those familiar with  [roland](roland.md) ’s strength or Severian’s weakness knows this rumor is laughably false, but the legend remains popular. 
-
-
-
-
+>
+>   Severian, Necrodemus III, was the first  [nostoi](nostoi.md)  to escape the prison of Hissarlik. 
+>
+>   According to legend, Severian stormed into the Enseljos palace and  [morganti](morganti.md) ’d the baby while  [roland](roland.md)  escaped the back way. Those familiar with  [roland](roland.md) ’s strength or Severian’s weakness knows this rumor is laughably false, but the legend remains popular. 
 
  **Necrodemus IV** through **Necrodemus VI** 
-
-
-
-
-
- 
- ![xparent](assets/xparent.gif)  *It is known that during the reigns of the fourth through sixth emperors, a Necrodemian Regency council was formed to administer the Empire when each young sovereign was not yet Inspired as a Dreamer. Unfortunately none of these young nobles lived sufficiently long to parent an heir, so twice the Regency Council was forced to select another young Emperor or Empress.
-
-  ![xparent](assets/xparent.gif)  It is known that during this period the Necrodemian Court transitioned from Enseljos to the *Olde Empire* traditional seat in High Asgar. The House Absolute in Enseljos is still occasionally referred to as the Necrodemian “Winter Palace.”
-
-  ![xparent](assets/xparent.gif)  Legends suggest that during this period an organization—called the Burgundy Council—was formed to ensure no Emperor after Necrodemus VII would be selected by Necrodemian Regents.
+>
+>   *It is known that during the reigns of the fourth through sixth emperors, a Necrodemian Regency council was formed to administer the Empire when each young sovereign was not yet Inspired as a Dreamer. Unfortunately none of these young nobles lived sufficiently long to parent an heir, so twice the Regency Council was forced to select another young Emperor or Empress.
+>
+>   It is known that during this period the Necrodemian Court transitioned from Enseljos to the *Olde Empire* traditional seat in High Asgar. The House Absolute in Enseljos is still occasionally referred to as the Necrodemian “Winter Palace.”
+>
+>   Legends suggest that during this period an organization—called the Burgundy Council—was formed to ensure no Emperor after Necrodemus VII would be selected by Necrodemian Regents.
 
  * 
-
-
-
-
-
-
 
  **Necrodemus VII**
 
  sovereign *NC 59?*–present
 
  (*through NC 88 in a terminated Shadow*) 
-
-
-
-
-
-  ![xparent](assets/xparent.gif)  Empress  [kayleigh](kayleigh.md)  is a direct descendant of  [1](#1) . she was raised a Bene Gesserit Bird Concubine, loves the high politics and the requisite formality. Ever a willfull woman, she delights in suprising people who dare to petition their concerns before her.
-
-  ![xparent](assets/xparent.gif)  The Emperor is known as the High One to the people, with his name held in secret. However, many sages, kings, and queens know the High One is the son of  [troy](troy.md)  (King of Law) and  [almitra](almitra.md)  (Queen of Chaos). A light to Kayleigh’s darkness, the High One prefers to avoid the Game of Houses and remain hidden from public view. A handful of *er-per’henne* know the High One travels the countryside in the guise of  [dream_990413](dream_990413.md) , the High One’s Harpist, learning the ways of the common people he rules.
-
-  ![xparent](assets/xparent.gif)  Although many people resist acknowledging either Emperor or Empress, no one can argue effectively against the rights of their combined heritage to rule Lartroxian  [troad](troad.md) . 
-
- 
-
-
-
-
+>
+>   Empress  [kayleigh](kayleigh.md)  is a direct descendant of  [1](#1) . she was raised a Bene Gesserit Bird Concubine, loves the high politics and the requisite formality. Ever a willfull woman, she delights in suprising people who dare to petition their concerns before her.
+>
+>   The Emperor is known as the High One to the people, with his name held in secret. However, many sages, kings, and queens know the High One is the son of  [troy](troy.md)  (King of Law) and  [almitra](almitra.md)  (Queen of Chaos). A light to Kayleigh’s darkness, the High One prefers to avoid the Game of Houses and remain hidden from public view. A handful of *er-per’henne* know the High One travels the countryside in the guise of  [dream_990413](dream_990413.md) , the High One’s Harpist, learning the ways of the common people he rules.
+>
+>   Although many people resist acknowledging either Emperor or Empress, no one can argue effectively against the rights of their combined heritage to rule Lartroxian  [troad](troad.md) . 
 
  **Necrodemus VIII**
 
  not yet born
 
  (*NC 88 through NC 95 in a terminated Shadow*) 
-
-
-
-
-
-  ![xparent](assets/xparent.gif)  Duncan Almustafa, son of the High One and the Empress  [kayleigh](kayleigh.md) , A descendant of the  [1](#1) , Duncan is widely prophesied to be the last Necrodemian Emperor. 
-
- 
+>
+>   Duncan Almustafa, son of the High One and the Empress  [kayleigh](kayleigh.md) , A descendant of the  [1](#1) , Duncan is widely prophesied to be the last Necrodemian Emperor. 
 
 > 
 > 		
@@ -142,17 +87,3 @@
 > 		
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

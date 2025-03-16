@@ -2,12 +2,9 @@
 
 # prince for an hour
 
-
-
  practise makes perfect
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
 
@@ -251,38 +248,17 @@ and forgets everything for a time, even the anger, forgets everything
 but for her own Name.
 --
 961130 mgg
-		
-	
+
 ```
 
- 
-
-
-
-
-
  See also
-
-  ![xparent](assets/xparent.gif)  [wish](wish.md) 
-
-  ![xparent](assets/xparent.gif)  [melisse](melisse.md) 
-
-  ![xparent](assets/xparent.gif)  [murder](murder.md) 
-
-  ![xparent](assets/xparent.gif)  [talin](talin.md) 
+>
+>   [wish](wish.md) 
+>
+>   [melisse](melisse.md) 
+>
+>   [murder](murder.md) 
+>
+>   [talin](talin.md) 
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1999 mark gilbert gadzikowski
-
-all rights reserved

@@ -2,16 +2,12 @@
 
 # grrl talk
 
-
-
  muriel's q's for threnody
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
-		
+
 > Howdy girl
 > Guess what? I've got a faboo piece of jewlery- check it out- THE 
 > RING OF AMARA! Jealous! It's sooooo cool and stuff. I can get a 
@@ -55,7 +51,6 @@
 > love ya bye 
 > Muriel 
 --
-
 
 Say Hey, Muriel!
 I'm  a bit groggy today, cuz I've just been killed. Immortality is great, 
@@ -129,22 +124,7 @@ Newton-John and Gene Kelley, or life sized gold statues of old Korean men.
 Big Mojo. 
 later, 
 Threnody
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

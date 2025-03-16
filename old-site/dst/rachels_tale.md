@@ -2,14 +2,10 @@
 
 # rachel’s tale
 
-
-
 a human legend of larethian
 
 **Rachel's Tale: The Children of Rilea** 
 This story was told by Rachel, an old woman of Kentucky, who heard it when she was a young girl.
-
- 
 
 > in ancient times before the necrodemian emperors, lios elfar roamed the
 > woods freely, and were called by men the elves of light. then there was a
@@ -66,21 +62,6 @@ This story was told by Rachel, an old woman of Kentucky, who heard it when she w
 > there is no story among men which tells of four children of rilea coming to
 > wisdom at the same time.
 
- 
 Rachel died of old age, shortly after relating this tale.
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1998 mark gilbert gadzikowski
-
-all rights reserved

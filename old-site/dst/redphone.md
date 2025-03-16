@@ -2,8 +2,6 @@
 
 # redphone
 
-
-
 active sentient contact information 
 
   ![bullet0](assets/bullet0.gif)  revised 99.07.12  ![bullet0](assets/bullet0.gif)
@@ -12,11 +10,7 @@ active sentient contact information
 
  these folks cross in the mists regularly
 
-
-
 ---
-
-
 
   (mailto:montolio@netcom.com) 
 
@@ -46,19 +40,11 @@ active sentient contact information
 
  **Tanri Silverharp**
 
-
-
-
-
 **distant**
 
  these folks have shown interest in participating from afar
 
-
-
 ---
-
-
 
   (mailto:prism@sonic.net) 
 
@@ -100,12 +86,6 @@ A Ra
 
   [damon](damon.md)  / Lord Dasher
 
-
-
-
-
- 
-
 ---
 
  *italics* indicate nightmare exists for this character 
@@ -113,17 +93,3 @@ A Ra
 ---
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

@@ -2,13 +2,10 @@
 
 # diamond stone of pyre
 
-
-
 end of translation
 
-### **Hard Time**
+### Hard Time
 
- 
  A diamond is forever, diamond hard,
 
  a chip of time, cutting glass,
@@ -24,8 +21,6 @@ end of translation
  can stab, can endure, can break
 
  but only if a flaw is found.
-
- 
 
  A diamond is coal that has suffered
 
@@ -45,8 +40,6 @@ end of translation
 
  children's eyes shine in it
 
- 
-
  There is something once soft
 
  that grows hard, bright
@@ -58,8 +51,6 @@ end of translation
  that burns harder than steel
 
  in the furnace of pain.
-
- 
 
  Call it a diamond. Call it 
 
@@ -74,8 +65,6 @@ end of translation
  that stands in the ashes
 
  of the terrible fire.
-
- 
 
  Nothing is forever, not
 
@@ -100,23 +89,3 @@ end of translation
  I would wear.
 
  
-
- 
-
-
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-portions © marge piercy
-
-all rights reserved

@@ -2,15 +2,12 @@
 
 # mestea
 
-
-
  the unexpected host
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
+
 Subject: Mestea and Shan
 Misty looks around at the Kav's in the bar, noticing their green swords.
 Although the elves play cards, throw darts, and drink heavily in the manner
@@ -30,7 +27,7 @@ At 06:49 AM 9/22/99 -0700, Mestea wrote:
 > slept but my brothers said I did not.  There should be nothing 
 > left from that time except the writings in my book, the 
 > enchantments.  But, every time I see you, I,  I want..."  
- 
+
 >Mestea pauses, blushing. 
 >"I want a lot of things.  Not the least of which is ... to throw 
 > myself at your feet and beg your forgiveness.  Not as Jil, 
@@ -77,22 +74,7 @@ the wrap.
 Villiers moves his arms wide and turns his palms outward. He begins to
 shoo the party from the Happy Toad. Shan Shanagate remains hunched low
 at the bar. Beneath the thick cloak, his shoulders tremble and heave.
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

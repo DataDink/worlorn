@@ -2,31 +2,18 @@
 
 # musquel-by-the-sea
 
- 
-
 ko’s home, abandoned, destroyed, annihilated
+>
+>   It is known that  [musquel](musquel.md)  was a turf in the  [dreams](dreams.md)  dominated by  [ko](ko.md) . 
+>
+>   It is said that the Dark Horse  [typhon](typhon.md)  Annihilated the wasteland of Musquel-by-the-Sea after the Destruction of Ko. 
+>
+>   It is demonstrable that there is a crater on the boundary of  [troad](troad.md)  where Ko’s Musquel used to be, and that Dhruva Preserved the lands as  [mita](mita.md) . 
+>
+>   It is known that Ko has not appeared in the  [dance](dance.md) . 
+>
+>  
 
-![xparent](assets/xparent.gif)  It is known that  [musquel](musquel.md)  was a turf in the  [dreams](dreams.md)  dominated by  [ko](ko.md) . 
-
-
- ![xparent](assets/xparent.gif)  It is said that the Dark Horse  [typhon](typhon.md)  Annihilated the wasteland of Musquel-by-the-Sea after the Destruction of Ko. 
-
-
- ![xparent](assets/xparent.gif)  It is demonstrable that there is a crater on the boundary of  [troad](troad.md)  where Ko’s Musquel used to be, and that Dhruva Preserved the lands as  [mita](mita.md) . 
-
-
- ![xparent](assets/xparent.gif)  It is known that Ko has not appeared in the  [dance](dance.md) . 
-
-
- ![xparent](assets/xparent.gif) 
-
-
-
-
-
-
-
- 
 ```
 
 From Halifirien@aol.com Sun Apr 30 07:59:35 1995
@@ -125,7 +112,7 @@ And Protect yourself with Fire"
  Michael to my right
  Uriel to my left side
  In the Circle of Fire
- 
+
 Hey Marlee, who trahsed Musquol? Do you know?
 
 "Fire on the mountains lighting in the air! Go to them hills Boy and Wait for
@@ -137,21 +124,6 @@ Could Remo do that?
 Suspect? . . Remo ?
 {She shakes her head no}
 
-
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

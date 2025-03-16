@@ -2,8 +2,6 @@
 
 # troy ounces
 
- 
-
 magic-user extraordinaire
 
 Thalia’s Laureate
@@ -12,17 +10,3 @@ Thalia’s Laureate
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

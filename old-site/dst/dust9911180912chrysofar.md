@@ -2,15 +2,12 @@
 
 # dust in the wind
 
-
-
  why so bad?
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
+
 OK, you guys, someone tell me why this dust in the wind is such a bad
 thing when numerous friends and enemies alike have been either turned to
 puddles of blood or sent to Hissarlik by Red Light and nobody is
@@ -21,28 +18,9 @@ wouldn't have had to do anything else.
 Is the cycle over? Anybody know? Do we run through another Muse now until
 we get back to Dreams or can we pick one like Spin the Bottle?
 -Chrysofar
-		
-	
+
 ```
-
- 
-
-
-
-
 
   [dustinthewind](dustinthewind.md)  [dust_traffic](dust_traffic.md) 
 
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
  
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

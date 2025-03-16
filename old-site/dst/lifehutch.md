@@ -2,29 +2,21 @@
 
 # life hutch
 
-
-
  safe place
+>
+>   a life hutch is an  [abelard](abelard.md) , which is to say a location where the powers of **Ground** ensure the occupants are **Protected** from harm.
+>
+>   the main feature of a life hutch is Protection from Tloluvin’s  [redlight](redlight.md)  Hours. a generic Abelard Sanctuary Protects occupants only from the *visible* Red Light of Luces Rojo and Threnody. the Protection of a life hutch also extends to the Time when Red Light *Hours* occur.
+>
+>   also unlike a generic Abelard Sanctuary, a life hutch has a Guardian, usually a Wrathman, who is able to call upon Wild Magic pre-emtively to Protect occupants from harm.
+>
+>   a life hutch has 20 beds in which *Swefen* of the first twenty sentients may safely reside between *Crossing-of-the-Mists*. since the Red Dawn, all *Swefen* who conclude *Crossing-of-the-Mists* outside a life hutch have been turned to Blood by Red Light.
+>
+>   apparently a life hutch is created by a creature upon escaping the prison of  [hissarlik](hissarlik.md) . the location of the life hutch is typically the location where the *Crossing-of-the-Mist* of the Hissarlik escape concludes.
+>
+>   it is demonstrated that as Nostoi emerge from Hissarlik, only the twenty most recently established life hutches remain active. the older ones are reduced to the status of abelard sanctuaries, without Red Light Protections. 
 
-![xparent](assets/xparent.gif)  a life hutch is an  [abelard](abelard.md) , which is to say a location where the powers of **Ground** ensure the occupants are **Protected** from harm.
-
-  ![xparent](assets/xparent.gif)  the main feature of a life hutch is Protection from Tloluvin’s  [redlight](redlight.md)  Hours. a generic Abelard Sanctuary Protects occupants only from the *visible* Red Light of Luces Rojo and Threnody. the Protection of a life hutch also extends to the Time when Red Light *Hours* occur.
-
-  ![xparent](assets/xparent.gif)  also unlike a generic Abelard Sanctuary, a life hutch has a Guardian, usually a Wrathman, who is able to call upon Wild Magic pre-emtively to Protect occupants from harm.
-
-  ![xparent](assets/xparent.gif)  a life hutch has 20 beds in which *Swefen* of the first twenty sentients may safely reside between *Crossing-of-the-Mists*. since the Red Dawn, all *Swefen* who conclude *Crossing-of-the-Mists* outside a life hutch have been turned to Blood by Red Light.
-
-  ![xparent](assets/xparent.gif)  apparently a life hutch is created by a creature upon escaping the prison of  [hissarlik](hissarlik.md) . the location of the life hutch is typically the location where the *Crossing-of-the-Mist* of the Hissarlik escape concludes.
-
-  ![xparent](assets/xparent.gif)  it is demonstrated that as Nostoi emerge from Hissarlik, only the twenty most recently established life hutches remain active. the older ones are reduced to the status of abelard sanctuaries, without Red Light Protections. 
-
-
-
-
-
- 
-
-|  **name**                     |  **locale**            |  **turf**              |  **founder**              | **status** | 
+|  name                         |  locale                |  turf                  |  founder                  | **status** | 
 | ----------------------------- | ---------------------- | ---------------------- | ------------------------- | ---------- | 
 |  Chamber of the Ancients      |  Novus Mundi           |  Dolbadarn             |  Morgan la Faye           |  active    | 
 |  -                            |  Gorias                |  Elidor                |  Morgan la Faye           |  active    | 
@@ -63,17 +55,3 @@
 |  House Absolute               |  Imperial Enseljos     |  New Troia             |  Severian                 |  defunct   | 
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

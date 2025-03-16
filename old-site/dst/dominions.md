@@ -2,14 +2,9 @@
 
 [index](index.md)
 
-**Aspect**
+Aspect
 
-
-
-
- **Entity Weilder**
-
-
+ Entity Weilder
 
 Chaos
 

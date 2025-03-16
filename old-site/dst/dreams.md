@@ -2,49 +2,20 @@
 
 # cycle of dreams
 
-
-
 rise and fall of Klinure
 
 |  [dance](dance.md)  | **dreams** |  [history](history.md)  |  [astronomy](astronomy.md)  |  [comedy](comedy.md)  | 
 | ------------------- | ---------- | ----------------------- | --------------------------- | --------------------- | 
 
- 
-
-
-
-
-
 **alleged REM activity inspiring * [ells](ells.md) ***
-
-
-
-
-
-
 
 * Introduction of the 1001 dragonbones (Blood)
 * Introduction of  [morganti](morganti.md)  (Dust)
-* Loss of  [redlight](redlight.md)
+* Loss of  [redlight](redlight.md) 
 
-
-
-
-
-
-
-
-### **the tesseract**
-
-
+### the tesseract
 
 turf in the cycle of dreams
-
-
-
-
-
- 
 
 | **turf focus**            | **8 major archetypes** | **room**             | 
 | ------------------------- | ---------------------- | -------------------- | 
@@ -58,19 +29,3 @@ turf in the cycle of dreams
 | *unknown*                 | knock                  | knock                | 
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
-
-
-
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

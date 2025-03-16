@@ -2,19 +2,12 @@
 
 # morgan la faye
 
-
-
 loving mother, maker of real death
 
 950329
 
 Threnody Speaks on Morgan
 
-
-
-
-
- 
 ```
 
 The legends of Morgan are long and varied and colorful. 
@@ -106,27 +99,17 @@ dragon off-shore in the sea of Flux, but I've never seen it...
 Threnody breaks off the tale and leaves Dolbadarn for a while, to stare 
 out over the silver waves of the Sea of Chaos.
 
-
 ```
-
- 
-
-
 
 950401
 
 Marlee adds some flesh to Threnody's naked tale
 
-
-
-
-
- 
 ```
 
 She was born a resident of Elidor and grew up there 
 until adolescence.
- 
+
 Time, Flowing like a river
 Time, Beckoning me
 Who knows when we shall meet again
@@ -224,11 +207,9 @@ I never made promises lightly
 And there have been some that I've broken
 But I swear in the days still left 
 We'll walk in fields of gold
- 
 
 She began seeking protections,... the Blue Star and the 
 Illusionist's orb...used immediately to protect her child.
-
 
 She knows that I've been doing something wrong
 But she wont say anything
@@ -248,12 +229,10 @@ Mother will hide the murderer
 Mother hides the madman
 Mother will stay Mum
 
-
 When the Great Smith Aeol came to her and asked Morgan 
 to help with his vision of weapons to deliver a Real 
 Death from which there was no appealor return, she was 
 tempted away from her peaceful family life 
-
 
 Among twenty snowy mountains
 the only thing moving 
@@ -310,9 +289,7 @@ And it was going to snow
 The blackbird sat
 In the cedar-limbs
 
-
 Remo is said to have found the body
-
 
 Under the dog star sail
 Over the reefs of moonshine
@@ -348,10 +325,8 @@ What would be true?
 Why should I?
 Why should I cry for you?
 
-
 Salt Peter is said to have exhumed her body but was set 
 upon by maurauders and he lost the wu hsin 
-
 
 {marlee laughs}
 
@@ -389,11 +364,9 @@ colour i can't reach you i can't reach you give me life give me pain give me
 my self again give me life give me pain give me myself again give me life
 give me pain give me myself again...
 
-
 >Morgan next recovered the Muse and made a plane near 
 >Dolbadarn with Llewellyn ap-Owen. they called it Novus 
 >Mundi, or New World 
-
 
 Welcom to my life 
 There's no turning back 
@@ -401,9 +374,7 @@ Even while we sleep
 Help me make the most of freedom
 and of pleasure nothing ever lasts forever everybody wants to rule the world
 
-
 where she could do nothing but preserve her own identity.
-
 
 Like a ghost- is the curtain
 in the white light of the morning
@@ -428,23 +399,6 @@ Are you there are you there?
 Shine on, friend hole tight 
 why then the darkening of the light
 
-
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-quoted lyrics copyright by the respective owners
-
-all rights reserved

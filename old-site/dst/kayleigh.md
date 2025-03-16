@@ -2,17 +2,9 @@
 
 # kayleigh
 
-
-
 mother of nations
 
 ** [simon](simon.md)  says:**
-
-
-
-
-
- 
 
 > 
 > 	(the one i wanted to write for you)
@@ -37,19 +29,3 @@ mother of nations
 > 	
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-##########  lyric from *misplaced childhood* copyright © marillion
-
- this page copyright © 1997–1998 mark gilbert gadzikowski
-
- all rights reserved

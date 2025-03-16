@@ -52,10 +52,21 @@ function copy() {
       console.error(`>> ${file} not unformatted`);
       continue;
     }
+    markdown = cleanup(markdown);
     FS.writeFileSync(dst, markdown);
   }
 }
 copy();
+
+function cleanup(markdown) {
+  return markdown
+    .replace(/\n\|(  \[people\]\(people\.md\)| \*\*personalities\*\*)[\s\S]+?\n\n/g, '\n\n')
+    .replace(/^\s*?$/gm, '')
+    .replace(/(\n\n+)/g, '\n\n')
+    .replace(/\n[\| ]+\n/g, '\n')
+    .replace(/\n{1,2}\s*\!\[xparent\]\(assets\/xparent\.gif\)/g, '\n>\n> ')
+    .replace(/\(mailto:worlorn-webmaster@gadzikowski.com\)[\r\n\s]+\#+ missing something[\s\S]+/, '');
+}
 
 function format(element) {
   var layout =  element?.querySelector?.('body > table > tbody') ?? element?.querySelector?.('body > table');
@@ -125,12 +136,18 @@ function formatReference(element) {
 }
 
 function formatList(element) {
-  if (element.tagName === 'LI') { return `\n\n* ${[...element.childNodes].map(format).join('')}\n\n`; }
   const sym = element.tagName === 'OL' ? '1.' : '*';
-  var items = [...element.childNodes].filter(n => n.tagName === 'LI');
+  var items = element.tagName === 'LI' 
+    ? [element] 
+    : [...element.childNodes].filter(n => n.tagName === 'LI');
   return `\n\n${items
-    .map(item => [...item.childNodes].map(format).join('').trim())
-    .map(item => `${sym} ${item}`)
+    .map(item => [...item.childNodes]
+      .map(format)
+      .map(text => text.replace(/[\r\n]+(\s*\*|\s*\d+\.)/g, '\n  $1'))
+      .map(text => text.replace(/([\r\n]\s*(\*|\d+\.)[^\r\n]+)[\r\n]+/g, '$1\n'))
+      .map(text => text.replace(/[\r\n]+$/, '\n'))
+      .join('')
+    ).map(item => `${sym} ${item}`)
     .join('\n')
   }\n\n`;
 }
@@ -144,6 +161,8 @@ function formatTable(element) {
       .replace(/[\r\n]+/g, ' ')
       .replace(/\s+/g, ' ')
     ));
+  if (rows.length < 1) { return ''; }
+  if (rows.length < 2) { rows.push(rows[0].map(cell => '')); }
   var cols = [...new Array(Math.max(...rows.map(row => row.length)))]
     .map((_,col) => Math.max(...rows.map(row => row[col]?.length ?? 0)))
     .map(width => Number.isFinite(width) ? width : 0);
@@ -173,7 +192,10 @@ function formatBlock(element) {
 
 function formatFont(element) {
   var size = 7-(parseInt(element.size) ?? 0);
-  return `\n${'#'.repeat(size)} ${[...element.childNodes].map(format).join('')}\n\n`;
+  return `\n${'#'.repeat(size)} ${[...element.childNodes].map(format).join('')
+    .replace(/[\s\r\n]+/g, ' ')
+    .replace(/[\#\*]/g, '')
+  }\n\n`;
 }
 
 function formatPre(element) {

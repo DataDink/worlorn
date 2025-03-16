@@ -2,8 +2,6 @@
 
 # dhruva
 
-
-
 the star, steadfast
 
 ```
@@ -27,17 +25,3 @@ What might and must and won't be.
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

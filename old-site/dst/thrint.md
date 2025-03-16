@@ -2,15 +2,12 @@
 
 # thrint
 
-
-
  you seen one slaver, you seen them all
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
+
 TO: Lord Morin
 FROM: Hermione
 Subject: today at school we learned about Thrint
@@ -61,22 +58,7 @@ the Dominator personalities arriving in the first Cycle of Inspiration,
 under the Muse of Comedy. if the Thrints were Dominated by Knock, then a
 chance exists that a Knock artifact could Dominate a Thrint. Knock artifacts
 fall in two categories: gold cards and dragonbones.
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

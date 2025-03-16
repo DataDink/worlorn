@@ -2,8 +2,6 @@
 
 # threnody ap-llewellyn
 
-
-
 the shearjashub of llewellyn ap-owen, by the star of fire
 
 ```
@@ -86,21 +84,6 @@ Subject: One player's point of view
 > Attribute completely. that's my theory. Has anyone
 > advanced anything else? 
 
-
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

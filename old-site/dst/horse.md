@@ -2,8 +2,6 @@
 
 # the trojan horse
 
-
-
 the bane of  [troy](troy.md)
 
 * "a small wooden horse
@@ -20,16 +18,4 @@ the bane of  [troy](troy.md)
 
  * 
 
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved
+ 

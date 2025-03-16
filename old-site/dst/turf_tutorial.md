@@ -2,15 +2,12 @@
 
 # turfholder 101
 
-
-
  so what's ultimate power good for, anyway?
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
-		
+
 Date: Tue, 13 Jul 1999 14:25:58 -0700
 To: (sentient list suppressed)
 From: Games Authority
@@ -62,21 +59,7 @@ WHAT ELSE IS THERE BESIDES GOLD CARDS?
 - places of no matter or energy to dominate. 
      AKA "Void."
      AKA "Greyspace."		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

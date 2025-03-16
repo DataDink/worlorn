@@ -2,12 +2,10 @@
 
 # eressea's speech
 
-
-
 memorized by all eressene recruits
 
 ```
-		
+
 Mon Apr 17 02:28:47 1995
 Subject: stuff from Eressea
 > Some are afraid that Eressea's appearance means battle for end of the world is
@@ -60,26 +58,9 @@ desires, and best heals their fears and works within their limitations. The
 leaders are not forgotton; effective leadership and guidance are critical
 skills needed by the Eressene organization.
 
-
 ```
 
- 
-
-* [eressea](eressea.md)
-* [churchtroy](churchtroy.md)
+*  [eressea](eressea.md)  
+*  [churchtroy](churchtroy.md)  
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

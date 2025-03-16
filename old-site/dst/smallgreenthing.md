@@ -2,12 +2,10 @@
 
 # small green thing
 
-
-
  music of the sphere
 
 ```
-		
+
 "Chrysofar, Last Defender of >Troy" wrote:
 > ...since when in the Locnar a turf...
 My dearest Tarakian,
@@ -51,24 +49,7 @@ with you:
   Turning in your hand 
   Small green thing
 Renfrew
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
- 
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- sincere apologies to Susanne Vega for her beautiful tune dreadfully misused.
-
- all rights reserved

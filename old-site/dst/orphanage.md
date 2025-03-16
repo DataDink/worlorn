@@ -2,20 +2,11 @@
 
 # castle on a cloud
 
-
-
 an orphanage and daycare for iahklu
 
-### **From wedge Sat Jul 8 13:15:23 1995
+### From wedge Sat Jul 8 13:15:23 1995 Subject: orphanage
 
- Subject: orphanage**
-
- 
  Eressea establishes an orphanage at Dolbadarn, under her personal supervision when awake but attended by senior Eressenes at all times. Eressenes who come across orphans or abandoned children can bring them to Dolbadarn where they will be raised and schooled. Also, as it comes up (if ever), the place can also function as "day care" for dreamer moms, too. Young Lydia, whom Eressea healed, is the first child of note to be raised there. The inspiration for the place comes from a song from Les Miserables, "Castle on a Cloud": 
-
-
- 
-
 
 ```
   There is a castle on a cloud.
@@ -39,16 +30,4 @@ an orphanage and daycare for iahklu
 
  sung by a young orphan girl who cleans up in a saloon in Paris. 
 
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved
+ 

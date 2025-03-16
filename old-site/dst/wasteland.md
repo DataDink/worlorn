@@ -2,22 +2,10 @@
 
 # the waste land
 
-
-
 by t. s. eliot
 
 |  [ground](ground)  |  [void](void)  |  [fire](fire)  |  [water](water)  |  [wind](wind)  | 
 | ------------------ | -------------- | -------------- | ---------------- | -------------- | 
-
- 
-
-
-
-
-
- 
-
- 
 
  April is the cruellest month, breeding
 
@@ -55,8 +43,6 @@ by t. s. eliot
 
  I read, much of the night, and go south in the winter.
 
- 
-
  What are the roots that clutch, what branches grow
 
  Out of this stony rubbish? Son of man,
@@ -81,8 +67,6 @@ by t. s. eliot
 
  I will show you fear in a handful of dust.
 
- 
-
  Frisch weht der Wind
 
  Der Heimat zu
@@ -91,13 +75,9 @@ by t. s. eliot
 
  Wo weilest du?
 
- 
-
  'You gave me hyacinths first a year ago;
 
  'They called me the hyacinth girl.'
-
- 
 
  Yet when we came back, late, from the hyacinth garden,
 
@@ -110,8 +90,6 @@ by t. s. eliot
  Looking into the heart of light, the silence.
 
  Oed' und leer das Meer.
-
- 
 
  Madame Sosostris, famous clairvoyante,
 
@@ -147,8 +125,6 @@ by t. s. eliot
 
  One must be so careful these days.
 
- 
-
  Unreal City,
 
  Under the brown fog of a winter dawn,
@@ -183,21 +159,7 @@ by t. s. eliot
 
  'You! hypocrite lecteur! - mon semblable, - mon frere!'
 
- 
-
- 
-
- 
-
- 
-
- 
-
  [top](#top) 
-
- 
-
- 
 
  The Chair she sat in, like a burnished throne,
 
@@ -257,8 +219,6 @@ by t. s. eliot
 
  Were told upon the walls; staring forms
 
- 
-
  Leaned out, leaning, hushing the room enclosed.
 
  Footsteps shuffled on the stair.
@@ -269,8 +229,6 @@ by t. s. eliot
 
  Glowed into words, then would be savagely still.
 
- 
-
  'My nerves are bad to-night. Yes, bad. Stay with me.
 
  Speak to me. Why do you never speak. Speak.
@@ -279,13 +237,9 @@ by t. s. eliot
 
  I never know what you are thinking. Think.'
 
- 
-
  I think we are in rats' alley
 
  Where the dead men lost their bones.
-
- 
 
  'What is that noise?'
 
@@ -300,8 +254,6 @@ by t. s. eliot
  You know nothing? Do you see nothing? Do you remember
 
  Nothing?'
-
- 
 
  I remember
 
@@ -334,8 +286,6 @@ by t. s. eliot
  Pressing lid less eyes and waiting for a knock upon the
 
  door.
-
- 
 
  When Lil's husband got demobbed, I said-
 
@@ -417,17 +367,7 @@ by t. s. eliot
 
  good night.
 
- 
-
- 
-
- 
-
- 
-
  [top](#top) 
-
- 
 
  The river's tent is broken; the last fingers of leaf
 
@@ -461,8 +401,6 @@ by t. s. eliot
 
  The rattle of the bones, and chuckle spread from ear to ear.
 
- 
-
  A rat crept softly through the vegetation
 
  Dragging its slimy belly on the bank
@@ -487,8 +425,6 @@ by t. s. eliot
 
  Sweeney to Mrs. Porter in the spring.
 
- 
-
  O the moon shone bright on Mrs. Porter
 
  And on her daughter
@@ -497,8 +433,6 @@ by t. s. eliot
 
  Et O ces voix d'enfants, chantant dans la coupole!
 
- 
-
  Twit twit twit
 
  Jug jug jug jug jug jug
@@ -506,8 +440,6 @@ by t. s. eliot
  So rudely forc'd.
 
  Tereu
-
- 
 
  Unreal City
 
@@ -524,8 +456,6 @@ by t. s. eliot
  To luncheon at the Cannon Street Hotel
 
  Followed by a weekend at the Metropole.
-
- 
 
  At the violet hour, when the eyes and back
 
@@ -552,8 +482,6 @@ by t. s. eliot
  On the divan are piled (at night her bed)
 
  Stockings, slippers, camisoles, and stays.
-
- 
 
  I Tiresias, old man with wrinkled dugs
 
@@ -597,8 +525,6 @@ by t. s. eliot
 
  And gropes his way, finding the stairs unlit .
 
- 
-
  She turns and looks a moment in the glass,
 
  Hardly aware of her departed lover;
@@ -615,11 +541,7 @@ by t. s. eliot
 
  And puts a record on the gramophone.
 
- 
-
  'This music crept by me upon the waters'
-
- 
 
  And along the Strand, up Queen Victoria Street.
 
@@ -636,8 +558,6 @@ by t. s. eliot
  Of Magnus Martyr hold
 
  Inexplicable splendour of lonian white and gold.
-
- 
 
  The river sweats
 
@@ -665,8 +585,6 @@ by t. s. eliot
 
  Wallala leialala
 
- 
-
  Elizabeth and Leicester
 
  Beating oars
@@ -683,8 +601,6 @@ by t. s. eliot
 
  Southwest wind
 
- 
-
  Carried down stream
 
  The peal of bells
@@ -695,8 +611,6 @@ by t. s. eliot
 
  Wallala leialala
 
- 
-
  'Trams and dusty trees.
 
  Highbury bore me. Richmond and Kew
@@ -705,8 +619,6 @@ by t. s. eliot
 
  Supine on the floor of a narrow canoe.'
 
- 
-
  'My feet are at Moorgate, and my heart
 
  Under my feet. After the event
@@ -714,8 +626,6 @@ by t. s. eliot
  He wept. He promised "a new start".
 
  I made no comment. What should I resent?'
-
- 
 
  'On Margate Sands.
 
@@ -731,11 +641,7 @@ by t. s. eliot
 
  Ia la
 
- 
-
  To Carthage then I came
-
- 
 
  Burning burning burning burning
 
@@ -743,23 +649,9 @@ by t. s. eliot
 
  O Lord Thou pluckest
 
- 
-
  burning
 
- 
-
- 
-
- 
-
- 
-
  [top](#top) 
-
- 
-
- 
 
  Phlebas the Phoenician, a fortnight dead,
 
@@ -783,19 +675,7 @@ by t. s. eliot
 
  you.
 
- 
-
- 
-
- 
-
- 
-
  [top](#top) 
-
- 
-
- 
 
  After the torchlight red on sweaty faces
 
@@ -814,8 +694,6 @@ by t. s. eliot
  We who were living are now dying
 
  With a little patience
-
- 
 
  Here is no water but only rock
 
@@ -855,8 +733,6 @@ by t. s. eliot
 
  And also water
 
- 
-
  And water
 
  A spring
@@ -877,8 +753,6 @@ by t. s. eliot
 
  But there is no water
 
- 
-
  Who is the third who walks always beside you?
 
  When I count, there are only you and I together
@@ -892,8 +766,6 @@ by t. s. eliot
  I do not know whether a man or a woman
 
  But who is that on the other side of you?
-
- 
 
  What is that sound high in the air
 
@@ -917,8 +789,6 @@ by t. s. eliot
 
  Unreal
 
- 
-
  A woman drew her long black hair out tight
 
  And fiddled whisper music on those strings
@@ -936,8 +806,6 @@ by t. s. eliot
  And voices singing out of empty cisterns and exhausted
 
  wells.
-
- 
 
  In this decayed hole among the mountains
 
@@ -959,8 +827,6 @@ by t. s. eliot
 
  Bringing rain
 
- 
-
  Ganga was sunken, and the limp leaves
 
  Waited for rain, while the black clouds
@@ -980,8 +846,6 @@ by t. s. eliot
  The awful daring of a moment's surrender
 
  Which an age of prudence can never retract
-
- 
 
  By this, and this only, we have existed
 
@@ -1019,8 +883,6 @@ by t. s. eliot
 
  To controlling hands
 
- 
-
  I sat upon the shore
 
  Fishing, with the arid plain behind me
@@ -1044,17 +906,3 @@ by t. s. eliot
  Shantih shantih shantih
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

@@ -2,13 +2,9 @@
 
 # reach di kendol
 
-
-
 a report to all interested parties
 
 This is the chronicle of Reach di Kendol, Lord Ironmark, School of the Hawk. It is made available to all in the hopes that interests will be made clear regarding the direction and effort required to awaken my lord  [digriz](digriz.md) .
-
- 
 
 > 
 > 	My lord diGriz is sleeping a dreamless sleep. I did not want to believe   
@@ -71,21 +67,6 @@ This is the chronicle of Reach di Kendol, Lord Ironmark, School of the Hawk. It 
 > 	lord diGriz.
 > 
 
- 
 -Reach di Kendol, pledged to diGriz
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1998 mark gilbert gadzikowski
-
-all rights reserved

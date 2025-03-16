@@ -2,12 +2,9 @@
 
 # using cards
 
-
-
  Son of Re: Still Don't Understand Cards, again, Part II, the Sequel
-
-![xparent](assets/xparent.gif)  
-
+>
+>   
 
 ```
 
@@ -36,7 +33,7 @@ Thought Exercise
 (b) The Compact says only brownsheet Nostoi [AKA people who have
     escaped from Hissarlik] can weild colored cards.
     [11.8.1, 11.8.7, 11.8.11, 11.8.17]
-	 
+
 (c) The Compact says when you're in your turfs you are not on an
     adventure.
     [8.x.7]
@@ -50,7 +47,6 @@ a + b =
 a + c =
     Non-Nostoi can avoid the fate by forbidding ALL adventures within
     your own turf.
-	
 
     Doh.
 "Suicide is painless;
@@ -93,22 +89,7 @@ Date: Sat, 1 May 1999 01:18 (PDT)
 To: Turfholders
 "Are things fixed yet?"
 -Greyson, representative of Dance in Worlorn.
-		
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1999 mark gilbert gadzikowski
-
-all rights reserved

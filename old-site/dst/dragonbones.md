@@ -2,25 +2,13 @@
 
 # dragonbones
 
-
-
 1001 strange attractors
-
-![xparent](assets/xparent.gif)  It is known, after he was destroyed, that the Demonlord’s bones were cast across the lands so his evil would never be whole.  [muses](muses.md)  herself was said to have taken his hands;  [knock](knock.md)  is said to have taken his patella, so never could the bones be assembled in whole. 
-
-
- ![xparent](assets/xparent.gif)  Some claim the Dragonbones of yore instead were flown whole into this world from a place called Compass Mountain, and that Vlad Drakulya Tepes and  [yama](yama.md)   [deathgod](deathgod.md)  rode that Dragon to  [asteroid](asteroid.md)  before splitting the skeleton in twain. It is known Vlad Drakulya Tepes has had many secrets in his Bat Cave. However, it is said that the Bat Cave is now barren and empty. It is known the most powerful Dragonbones have been wielded by  [yama](yama.md)  and his  [kalkin](kalkin.md) . 
-
-
- ![xparent](assets/xparent.gif)  Regardless, the 1001 artifacts called dragonbones are with us today, and whoever holds any also holds great power and great danger. 
-
-
-
-
-
-
-
- 
+>
+>   It is known, after he was destroyed, that the Demonlord’s bones were cast across the lands so his evil would never be whole.  [muses](muses.md)  herself was said to have taken his hands;  [knock](knock.md)  is said to have taken his patella, so never could the bones be assembled in whole. 
+>
+>   Some claim the Dragonbones of yore instead were flown whole into this world from a place called Compass Mountain, and that Vlad Drakulya Tepes and  [yama](yama.md)   [deathgod](deathgod.md)  rode that Dragon to  [asteroid](asteroid.md)  before splitting the skeleton in twain. It is known Vlad Drakulya Tepes has had many secrets in his Bat Cave. However, it is said that the Bat Cave is now barren and empty. It is known the most powerful Dragonbones have been wielded by  [yama](yama.md)  and his  [kalkin](kalkin.md) . 
+>
+>   Regardless, the 1001 artifacts called dragonbones are with us today, and whoever holds any also holds great power and great danger. 
 
 | **Rank** | **Power**         | **Instantiation**                                                                                                                                                                                                                                                                                                                                                                                                            | 
 | -------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
@@ -69,17 +57,3 @@
 | 41       | ID                |  Sentient Artifacts [morganti](morganti.md) IDs (17 consumers of [comedy](comedy.md) , [astronomy](astronomy.md) , [history](history.md) , [dreams](dreams.md) ) Maeglinti IDs (666 consumers of [dance](dance.md) )                                                                                                                                                                                                         | 
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1999 mark gilbert gadzikowski
-
-all rights reserved

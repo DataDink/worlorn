@@ -2,65 +2,60 @@
 
 # the flame speeches
 
-
-
 eulogies for di griz
 
 [josie](#josie)  /  [archmage](#archmage)  /  [marlee](#marlee)  /  [chrysofar](#chrysofar)  /  [dare](#dare)  /  [sauron](#sauron)  /  [roland](#roland)  /  [waldann](#waldann)  /  [thoringer](#thoringer)  /  [talin](#talin)  /  [erin](#erin)  /  [huery](#huery)  /  [speaker](#speaker)  /  [wedge](#wedge)  /  [dm](#dm)  /  [Eressea](#Eressea)  /  [colbart](#colbart)  /  [brigitte](#brigitte)  /  [valentine](#valentine)  /  [maddie](#maddie)  /  [urth](#urth)  /  [dread](#dread)  /  [demi](#demi)  
- 
-
 
 ### 
-
-  ![xparent](assets/xparent.gif) Hello. 
-
-  ![xparent](assets/xparent.gif) I am Josie of Musquel-by-the-sea.  [ko](ko.md)  the Greater God of Improvement was my father, although I claim none of his power, only his hope for a better world. I need your help curing a problem with di Griz, who was to be the next Archmage of Roke.
-
-  ![xparent](assets/xparent.gif)  I would like you to come to  [musquel](musquel.md)  and try to help me treat the madness that has come over my friend di Griz. He has removed all of his Hope outside his body, and placed it into a flameing [sic] beacon outside his hut here in the village. We don't think he's going to waken. 
-
-  ![xparent](assets/xparent.gif) Ever.
-
-  ![xparent](assets/xparent.gif) On All Hallows Eve di Griz was attacked by Seven out of eight Turf Holders for doing what he thought was right. He's refusing to live in a world which rejects him so harshly. I cannot find it in me to say he is wrong. But I find that I miss his presence deeply. I think we all will.
-
-  ![xparent](assets/xparent.gif) The fire grows so dim it's almost extinguished between adventures. It's as if he's afraid adventures will never happen again. If it goes out, he retires to the Mistress of Abandoned dreams.
-
-  ![xparent](assets/xparent.gif)  What I need from you is to compose a speech, as long or as short as you like. This speech is to help return hope to di Griz' shattered spirit. Start your speech to di Griz with the phrase, "Hello di Griz. I guess we let you down. I'm sorry I could not stand by you on All Hallow's Eve, but..." 
-
-  ![xparent](assets/xparent.gif)  Continue your speech with whatever you find sincerely true. Don't be afraid to say you didn't know what's going on. Do be certain to say why you think he should waken again. Tell him about what you think is wonderful about life and adventuring. No happiness is too small to mention.
-
-  ![xparent](assets/xparent.gif)  Do not lie to fill speeches; he's got a bullshit detector good for miles. Remember, di Griz is the next Archmage. If he ever wakes up.
-
-  ![xparent](assets/xparent.gif)  I suggest we all end our speeches with the Phrase, "Please wake up, di Griz. Worlorn needs your wisdom."
-
-  ![xparent](assets/xparent.gif)  If you don't feel comfortable speaking with a stranger, I understand. I don't think he needs to know YOU, so much as to know WE NEED HIM to waken for this world to be a better place. But still, if you don't wish to speak to di Griz, do not do this. Silence is better than insincerity.
-
-  ![xparent](assets/xparent.gif)  Thank you.
-
-  ![xparent](assets/xparent.gif)  Josie [*  [top](#top)  *] 
+>
+>  Hello. 
+>
+>  I am Josie of Musquel-by-the-sea.  [ko](ko.md)  the Greater God of Improvement was my father, although I claim none of his power, only his hope for a better world. I need your help curing a problem with di Griz, who was to be the next Archmage of Roke.
+>
+>   I would like you to come to  [musquel](musquel.md)  and try to help me treat the madness that has come over my friend di Griz. He has removed all of his Hope outside his body, and placed it into a flameing [sic] beacon outside his hut here in the village. We don't think he's going to waken. 
+>
+>  Ever.
+>
+>  On All Hallows Eve di Griz was attacked by Seven out of eight Turf Holders for doing what he thought was right. He's refusing to live in a world which rejects him so harshly. I cannot find it in me to say he is wrong. But I find that I miss his presence deeply. I think we all will.
+>
+>  The fire grows so dim it's almost extinguished between adventures. It's as if he's afraid adventures will never happen again. If it goes out, he retires to the Mistress of Abandoned dreams.
+>
+>   What I need from you is to compose a speech, as long or as short as you like. This speech is to help return hope to di Griz' shattered spirit. Start your speech to di Griz with the phrase, "Hello di Griz. I guess we let you down. I'm sorry I could not stand by you on All Hallow's Eve, but..." 
+>
+>   Continue your speech with whatever you find sincerely true. Don't be afraid to say you didn't know what's going on. Do be certain to say why you think he should waken again. Tell him about what you think is wonderful about life and adventuring. No happiness is too small to mention.
+>
+>   Do not lie to fill speeches; he's got a bullshit detector good for miles. Remember, di Griz is the next Archmage. If he ever wakes up.
+>
+>   I suggest we all end our speeches with the Phrase, "Please wake up, di Griz. Worlorn needs your wisdom."
+>
+>   If you don't feel comfortable speaking with a stranger, I understand. I don't think he needs to know YOU, so much as to know WE NEED HIM to waken for this world to be a better place. But still, if you don't wish to speak to di Griz, do not do this. Silence is better than insincerity.
+>
+>   Thank you.
+>
+>   Josie [*  [top](#top)  *] 
 ###   [archmage](archmage.md) 
 
  Hello di Griz. 
-
-  ![xparent](assets/xparent.gif)  I guess we let you down. I'm sorry I could not stand by you on All Hallow's Eve, but I wasn't paying any attention to you.
-
-  ![xparent](assets/xparent.gif)  I've spent so long watching you to see if you're right for Archmage, that I had to withdraw when I saw you act from impatience in Llewghund. You destroyed that woman's mind with your staff, when you knocked open her box. If Aleks had not wished, her mind would have been shredded when you broke it open without knowledge or care.
-
-  ![xparent](assets/xparent.gif)  Here at Musquel you came to realize that everyone, even the non-dreamers, even the mundane citizens were important to their trusted leaders. Josie said you acted to save the villagers when Llyr threatened them. I know you blessed their sheep when you had business of your own. Josie told me how you came to learn what burden the Throne grants you. You did not shirk the burden of blessing the sheep of the ignorant.
-
-  ![xparent](assets/xparent.gif)  This is the man I chose to succeed me at Roke. You were right. They were fools. But di Griz, the world is full of fools, and that's why we have to act.
-
-  ![xparent](assets/xparent.gif)  Please wake up, di Griz. Worlorn needs your Wisdom.
-
-  ![xparent](assets/xparent.gif)  [*  [top](#top)  *] 
+>
+>   I guess we let you down. I'm sorry I could not stand by you on All Hallow's Eve, but I wasn't paying any attention to you.
+>
+>   I've spent so long watching you to see if you're right for Archmage, that I had to withdraw when I saw you act from impatience in Llewghund. You destroyed that woman's mind with your staff, when you knocked open her box. If Aleks had not wished, her mind would have been shredded when you broke it open without knowledge or care.
+>
+>   Here at Musquel you came to realize that everyone, even the non-dreamers, even the mundane citizens were important to their trusted leaders. Josie said you acted to save the villagers when Llyr threatened them. I know you blessed their sheep when you had business of your own. Josie told me how you came to learn what burden the Throne grants you. You did not shirk the burden of blessing the sheep of the ignorant.
+>
+>   This is the man I chose to succeed me at Roke. You were right. They were fools. But di Griz, the world is full of fools, and that's why we have to act.
+>
+>   Please wake up, di Griz. Worlorn needs your Wisdom.
+>
+>   [*  [top](#top)  *] 
 ### 
 
- 
 ```
 meg told greg 
 she liked to make things out of chairs
 greg told meg 
 sometimes he still hugs teddy bears
- 
+
 so then sneeked in the living room 
 and Piled all the pillows up 
 and made it a rocket ship to fly in
@@ -220,20 +215,5 @@ with this heavy load
 ### 
 
  DIGRIZ Buddy! I GHuess whee letcha down. I'm sorry. I love you man! I''''sssssss sorrry I can't stand Umm I am sorry I couldn't stand byou on all hallows, man. I was In prisoned ya know it wasn'[t my fa;ultppfft Now Im FREE Free to strech free to drink free to fly free to lunch free to eat marshmellows free to spit free to free man I'm sorry common wake up is he awake yet? Commmmon man wake up Here See that's bettr huh? VCommon ya slimmy little moush wake up. DIGRIZ Yoooo Hoooo WAKE UUPP! Hello! Iloveyouman Wake up Good morning! Hey I heaar you got my cloak of my mother! Would you wake up I wannit black! Hey I heard you ain't got laid yet Wake up we can start a new race. "FairiefirieRats!!" hahahaahahahaha Drink di drinkdrink drinkdrinkdrink drink drink drink drinkdrinkdrink Drink di drinkdrink drinkdrink drink drink drank drank drunk Drink di drinkdrink drinkdrinkdrink drink drink drink drinkdrinkdrink Drink di drinkdrink drinkdrink drink drink drank drank drunk [hours later] DIGRIZ Buddy! I GHuess whee letcha down. I'm sorry. I love you man! [multiple iterations deleted] [*  [top](#top)  *] 
+
  
-
-
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

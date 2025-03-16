@@ -2,8 +2,6 @@
 
 # introductions
 
-
-
 a letter from the quaal to the swan
 
 ```
@@ -115,21 +113,7 @@ numbers, while even Nolerak's friends might tremble at their very glance.
 Dear sister, I shall speak no more of my own needs. Be of good cheer. Peace
 fly with you.
 Brother Q.
-	
+
 ```
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
- [top](#top) 
-
-
-########## this page copyright © 1998 mark gilbert gadzikowski
-
-all rights reserved

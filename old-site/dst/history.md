@@ -2,43 +2,20 @@
 
 # cycle of history
 
-
-
 rise and fall of Clio
 
 |  [dance](dance.md)  |  [dreams](dreams.md)  | **history** |  [astronomy](astronomy.md)  |  [comedy](comedy.md)  | 
 | ------------------- | --------------------- | ----------- | --------------------------- | --------------------- | 
 
- 
-
-
-
-
-
  alleged memoirs inspiring the *arduin grimoire* of  [tiresias](tiresias.md)  
 
-* Introduction of the  [akashik](akashik.md)  (Blood)
+* Introduction of the  [akashik](akashik.md)  (Blood) 
 * Introduction of World Time
-* Loss of  [kolwynia](kolwynia.md)  (Dust)
+* Loss of  [kolwynia](kolwynia.md)  (Dust) 
 
-
-
-
-
-
-
- 
-### **cardinal points**
-
-
+### cardinal points
 
   [elidor](elidor.md)  in the cycle of history 
-
-
-
-
-
- 
 
 |   | **memoir**         | **poet**  | **realm** | 
 | - | ------------------ | --------- | --------- | 
@@ -51,19 +28,7 @@ rise and fall of Clio
 |   | lost               | forgotten | Unmade    | 
 |   | lost               | forgotten | Unmade    | 
 
- 
-
-
-
-
-
   [elidor](elidor.md)  in the cycle of  [dreams](dreams.md)  
-
-
-
-
-
- 
 
 |   | **focus**               | **sovereign**         | **wasteland**         | 
 | - | ----------------------- | --------------------- | --------------------- | 
@@ -75,19 +40,7 @@ rise and fall of Clio
 |   | evoker tree             |  [digriz](digriz.md)  | forest “mondrum”      | 
 |   | standing stones         | *time*                | hill “usna”           | 
 
- 
-
-
-
-
-
   [elidor](elidor.md)  in the cycle of  [dance](dance.md)  
-
-
-
-
-
- 
 
 |   | **attribute**  | **dominator** | ** [dominions](dominions.md) ** | 
 | - | -------------- | ------------- | ------------------------------- | 
@@ -97,19 +50,3 @@ rise and fall of Clio
 | N | stone          | semias        | murias                          | 
 
  
-
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
-
-### missing something you want to see?
-
-
-
-
-
-
-
-
-########## this page copyright © 1997–1998 mark gilbert gadzikowski
-
-all rights reserved

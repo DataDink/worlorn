@@ -4,8 +4,4 @@
 
 come to Voidcastle to receive your reward.
 
-
-
-
-
  [domains](domains.md)

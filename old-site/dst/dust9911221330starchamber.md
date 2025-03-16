@@ -2,8 +2,6 @@
 
 # dust in the wind
 
-
-
  not Brutas, Judas ...
 
 From: "Chrysofar, Last Defender of Troy"  
@@ -23,40 +21,17 @@ From: "Chrysofar, Last Defender of Troy"
 > 	
 > 	I don;t think even *I* can un-Dust someone.
 > 
-
- 
- ![xparent](assets/xparent.gif)  OK I have an observation. Red Light is predictable and there are ways to protect ones self, that are widely known. Anyone who can knows you don't walk around when Red Light Falls. 
-
-
- ![xparent](assets/xparent.gif)  What protection and advanced warning did Crysofar offer anyone? 
-
-
- ![xparent](assets/xparent.gif)  I asked her to recant and she has stubornly and willfully refused. As pure GOOD, I have judged her evil. Our association has ended and I feel only hell awaits her (sorry to its dominator). 
-
-
- ![xparent](assets/xparent.gif)  The CROWN OF GOOD MIGHT demands all GOOD CREATURES end all association with Crysofar and the Crosswinds. So Be It. The CROWN OF GOOD MIGHT demands that Crysofar's alignment be forever restricted from being GOOD. So Be IT! 
-
-
- ![xparent](assets/xparent.gif)  The CROWN OF GOOD MIGHT has spoken. 
-
-
-
-
-
-
+>
+>   OK I have an observation. Red Light is predictable and there are ways to protect ones self, that are widely known. Anyone who can knows you don't walk around when Red Light Falls. 
+>
+>   What protection and advanced warning did Crysofar offer anyone? 
+>
+>   I asked her to recant and she has stubornly and willfully refused. As pure GOOD, I have judged her evil. Our association has ended and I feel only hell awaits her (sorry to its dominator). 
+>
+>   The CROWN OF GOOD MIGHT demands all GOOD CREATURES end all association with Crysofar and the Crosswinds. So Be It. The CROWN OF GOOD MIGHT demands that Crysofar's alignment be forever restricted from being GOOD. So Be IT! 
+>
+>   The CROWN OF GOOD MIGHT has spoken. 
 
   [dustinthewind](dustinthewind.md)  [dust_traffic](dust_traffic.md) 
 
- (mailto:worlorn-webmaster@gadzikowski.com) 
-
  
-### missing something you want to see?
-
-
-
- [top](#top) 
-
- 
-########## this page copyright © 1999 mark gilbert gadzikowski
-
- all rights reserved

@@ -2,11 +2,9 @@
 
 # dancing domains
 
-
-
  [wildmagic](wildmagic.md)  sustaining areas of perfect dominance
 
-|  **attribute**            |  **dominion**                     |  **dominator**          |  **subdomains**               | 
+|  attribute                |  dominion                         |  dominator              |  subdomains                   | 
 | ------------------------- | --------------------------------- | ----------------------- | ----------------------------- | 
 |  damion's playroom        |  indefinite                       |  indefinite             |  indefinite                   | 
 |  [diamond](diamond.md)    |  [redzone](redzone.md)            |  ur-lord pyre           |  -                            | 
@@ -24,18 +22,10 @@
 |  talisman/binder          |  [fountainhead](fountainhead.md)  |  karter                 |  -                            | 
 |  [8ball](8ball.md)        |  [northpole](northpole.md)        |  xcalis regence         |  -                            | 
 
- 
-
  (mailto:ricercar@null.net) 
-
 
 ### missing something you want to see?
 
-
-
  [top](#top) 
 
-
-########## this page copyright © 1997-98 mark gilbert gadzikowski
-
-all rights reserved
+########## this page copyright © 1997-98 mark gilbert gadzikowski all rights reserved
