@@ -1,0 +1,57 @@
+![dancer](assets/dancer.gif)
+
+# ever broadening repertoire
+
+
+
+ you can’t hurt us; we’re invincible!
+
+![xparent](assets/xparent.gif)  Tanri flops down in a chair and looks at Sharra. "Well, if  [tanrisong01](tanrisong01.md)  is too vague, then I may be out of ideas. We just need something to protect us from this onslaught until it sorts out, from what I can gather. I don't need to specifically change Maja, just protect our borders for a while... make us..." Tanri trails off, still staring blankly at the bookcase across from her, but a smile starts to quirk one side of her mouth. 
+
+ ![xparent](assets/xparent.gif)  "Okay, there's one other song I can think of. It may sound completely arrogant, but it comes from a fairly aggressive people. It may have been a warsong at one point, I don't know. Let me just..." she rustles through bits and scraps of parchment. "Large portions of this are simply emotion, and will need no special interpretation, so this would be a quick twist of words for me," Tanri mutters, as she fingers her harp to remember the chords. She looks up at Sharra again. "All right, I have it! Try this one instead..." 
+
+> 
+> 		This bloody road remains a mystery
+> 		this sudden darkness fills the air
+> 		What are we waiting for? Won't anybody help us, 
+> 		What are we waiting for?
+> 		
+> 		We can't afford to be innocent, stand up and face the enemy
+> 		It's a do or die situation, we will be invincible
+> 		
+> 		This shattered dream you cannot justify
+> 		We're gonna scream until we're satisfied
+> 		What are we running for? We've got the right to be angry
+> 		What are we running for, when there's nowhere we can run to anymore
+> 		
+> 		We can't afford to be innocent, stand up and face the enemy
+> 		It's a do or die situation, we will be invincible
+> 		And with the power of conviction, there is no sacrifice
+> 		It's a do or die situation, we will be invincible
+> 		
+
+  ![xparent](assets/xparent.gif)  Tanri sits back and pushes her hair from her eyes with an impatient gesture. "Is this better? Because I want to get this right." Exasperated, she chuckles. "And I'm not used to thinking of regular ballads as spell-fodder. That'll teach me to pay more attention to my repertoire."
+
+ 
+ ![xparent](assets/xparent.gif)  Sharra starts smiling from the first words. By the time the last chords fade, she's grinning, the white of her teeth showing brightly in the library's torchlight. For a moment, Tanri sees *Dharma*: Sharra joyous, raw, and unfiltered, as if crouched over a campfire with a spear in one hand and her kill in the other. 
+
+ ![xparent](assets/xparent.gif)  Sharra says, "I can work with that. This song will do quite nicely." Then, "It’s your enemies that will learn to pay attention to your repertoire." 
+
+
+
+ (mailto:worlorn-webmaster@gadzikowski.com) 
+
+ 
+### missing something you want to see?
+
+
+
+ [top](#top) 
+
+ 
+########## this page copyright © 2000 mark gilbert gadzikowski and 
+ wendy werges
+
+
+
+ all rights reserved

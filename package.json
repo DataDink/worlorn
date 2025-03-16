@@ -1,0 +1,16 @@
+{
+  "name": "worlorn",
+  "version": "0.0.0",
+  "description": "website",
+  "main": "README.md",
+  "scripts": {
+    "crawl": "old-site/crawl.mjs",
+    "parse": "old-site/parse.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^26.0.0",
+    "sync-request": "^6.1.0"
+  }
+}

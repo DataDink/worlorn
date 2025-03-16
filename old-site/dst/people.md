@@ -1,0 +1,159 @@
+![wsun](assets/wsun.gif)
+
+# worlorn entities
+
+
+
+creatures of light and dark
+
+| **personalities** |  [places](places.md)  |  [things](things.md)  |  [events](events.md)  |  [groups](groups.md)  |  [glossary](glossary.md)  | 
+| ----------------- | --------------------- | --------------------- | --------------------- | --------------------- | ------------------------- | 
+
+
+
+
+
+
+
+ 
+
+|  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
+| ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
+
+
+
+
+
+
+
+ 
+ 
+
+
+#### 
+
+  [redphone](redphone.md)  
+
+
+
+
+
+ 
+
+|  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
+| ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
+
+
+
+
+
+
+
+ 
+####  [muses](muses.md) 
+
+  [abelard](abelard.md)  / agate / amiss taal /  [anael](anael.md)  / angamar / aniel / anon / autumn / balrog / bassko / bela / beryl / bessemer / bojin / bola / bone / boole / borsch / brendan / cabernet sauvignon / canaith / cargadelfane / carlos / cathay / celestine / chanson / charlie bigelow / chateau briand /  [chrysofar](chrysofar.md)  / condor / coriander / crimson grey / danglars / daniel / dan illis / dare / daybor high-redsteel tunis / de lacey / doben / doctor scofflaw / dor /  [dorshall](dorshall.md)  / duke dralaar / elesse / elsinore / enyali / eris / eris ban high-glowstone zandor / eska shal / essene / faren / fen /  [dorshall](dorshall.md)  / ferret / fikel / finish / fish / foresh / forlithe / fort / fran / ghalla high-braith / glen sacremento / greyleaf / grishnok / haldane / hawk / haydee high-redsteel bola / hoosam / humus / in shal / integ / iosa / janus / jil sander / jorie /  [kayleigh](kayleigh.md)  / killik / konstance / kul culane / leaf / leaven / lillian / lime / lola shal / lonnegrin / lorien / lors / luck / mac / macdoughal / macfarlane / magda the black /  [maja](maja.md)  / mallard l’orange / maple / marcellus / meko / mena / mestea / mikael of the ivory sword /  [dorshall](dorshall.md)  / mone / monster slayer / moon / moon lintol high-glowstone mars /  [dream_990413](dream_990413.md)  /  [dream_990413](dream_990413.md)  / morning dove / mort / moss / moth / napoleon / nellis / nolerak / nolin / noni / norm / ola / orin /  [petros](petros.md)  / petrovitch / portho taal / pug / quentin / rachel / ral shan / raphael / rhonda sacremento / ringer / riverbird / rock / roge / roget / rome / rook / root / rose / roweena / ruella /  [dream_990413](dream_990413.md)  / ryndall / saint cuthbert / salar / sel /  [seth](seth.md)  / shadow / shal estariol / shal kendarn / shandar / shaol /  [sharra](sharra.md)  / shoen / sif / sima / simath / spring / sobriost / sojurner / solace / spam gangrene / stab / star / stem / stone / summer / sun / taimarra / tammy o’shanter / taylor monroe /  [dorshall](dorshall.md)  / tintal / tintol green /  [dream_990413](dream_990413.md)  / toris / tree / treya cotta / uskar / valentine / vallejo / vanamonde / vine / void / willis / willis dan mare / winter 
+
+
+
+
+
+ 
+
+|  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
+| ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
+
+
+
+
+
+
+
+ 
+####  [wildmagic](wildmagic.md) 
+
+  [highone](highone.md)  /  [almitra](almitra.md)  /  [archmage](archmage.md)  /  [blacksword](blacksword.md)  /  [chrysofar](chrysofar.md)  /  [corian](corian.md)  / cyrus de angelo /  [damon](damon.md)  /  [dare](dare.md)  /  [darkblade](darkblade.md)  /  [dhruva](dhruva.md)  /  [digriz](digriz.md)  /  [dworkin](dworkin.md)  /  [prince1000](prince1000.md)  /  [eressea](eressea.md)  /  [erin](erin.md)  / gerard / gerier / greyson /  [halfelven](halfelven.md)  / hercules /  [klew](klew.md)  /  [llewella](llewella.md)  /  [melisse](melisse.md)  /  [morgan](morgan.md)  /  [niteblade](niteblade.md)  /  [oberon](oberon.md)  /  [prince1000](prince1000.md)  /  [realoran](realoran.md)  /  [remo](remo.md)  /  [roland](roland.md)  /  [seth](seth.md)  /  [talin](talin.md)  /  [tanngrisnir](tanngrisnir.md)  / theseus /  [threnody](threnody.md)  /  [troy](troy.md)  /  [yama](yama.md)  
+
+
+
+
+
+ 
+
+|  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
+| ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
+
+
+
+
+
+
+
+ 
+####  recognized in the  [compact](compact.md) 
+
+ aeol / Acreon / adam / aleksandir skemandras / alexander starmage / al / albion / aliera / aliera e'kiera /  [almitra](almitra.md)  /  [almitra](almitra.md)  / ancient mariner / anderson / ansset /  [archmage](archmage.md)  /  [niteblade](niteblade.md)  / armgil / athena / atreus / austin / austin of llewghund / barrion of windhaven / beetle / benedict of troy / bigby / billykin / black andromache / black regor /  [blacksword](blacksword.md)  / blood / blood nemesis of novus mundi / blood phoenix / bragi / brigitte / brilliance / brother sun / bylaw / callihan / cedric / cedric of llewghund / champion / champion eternal / chiun /  [chrysofar](chrysofar.md)  / chrystann / chrystann of llewghund / chup / cinnamon / colbart / cordell finneval / corum jhalen irsei / corum llawr ereint / corwyn / cory 85 / crogin /  [crotoan](crotoan.md)  / damion /  [damon](damon.md)  / dara /  [nitefall](nitefall.md)  / dark helen /  [deathgod](deathgod.md)  / deminitrix /  [dhruva](dhruva.md)  /  [digriz](digriz.md)  /  [dira](dira.md)  / dr. d'arque angel / dolarhyde / dorian hawkmoon / drakulya / drew / dungeon master /  [dworkin](dworkin.md)  /  [llyr](llyr.md)  /  [eressea](eressea.md)  /  [eressea](eressea.md)  /  [ender](ender.md)  /  [erin](erin.md)  / eternal champion / eumir / eumir of llewghund / evingolis / first archmage / fishe / fistandantilus / florridan / fred / freytag / galahad / garfield / ged / gerard / gimli / god of the open road / gorm / greyson /  [remo](remo.md)  /  [threnody](threnody.md)  /  [halfelven](halfelven.md)  / hal /  [wedge](wedge.md)  /  [hal](hal.md)  / hamshoe string / hektor / hektor of troy / hektor protector /  [hermione](hermione.md)  /  [hermione](hermione.md)  / heward / hornet / hse ponn / inle rah / jil sander/ john / john of llewghund / josie / justin / justin of llewghund / justin time / kalkin the binder / kannon / karli / karter / katsuk / kazzintruitabemms ('kas') / keebler / keeper / keeper of llewghund / keoghtom / kevin landwaster / khansman / kiera / klesst silverhand /  [klew](klew.md)  [sic] /  [muses](muses.md)  /  [knock](knock.md)  /  [ko](ko.md)  / kobi / kord / kord of llewghund / kuroth / kwai chang kaine / kwll / lady in the wind / lady of luck / lato /  [eressea](eressea.md)  /  [llewella](llewella.md)  / llewellyn ap-owen / llyr / lord dasher / lord kalkin / loren swordbringer high-ironjade solon / lothia / luces rojo / lyralin / macy / maeglin / maeglin high-carsultyl / maeglin high-jerusalem sathonys / malifiscent / maltathar / margeau escargot / mario / marisse cupric / marlee / marlinane valentine al thor / marrakesh /  [melisse](melisse.md)  / meuller / mewick / michael donn / mr. fixit / mistress alice / molka / mola ran /  [morgan](morgan.md)  / morningstar / mother of knives / ms. master / muad'dib / nathan stack / necrodemus / nerull (avatar) / nerull the reaper /  [niteblade](niteblade.md)  archangel / nike / nkumai / noctua / nolerak / nyarlathotep /  [oberon](oberon.md)  / odysseus / orion / orland fank / osho / ozzy fudd / pachelbel kannon / padrig / paris high-larteyn / pen / peter abelard / phoenix / piscator / poldark wandbourne high-ironjade ross / prince llyr /  [prince1000](prince1000.md)  / pterry lightfoot / puk / pumpernickle bylaw / pyre of vodalus / queen ehlyssa / ray krebs /  [realoran](realoran.md)  /  [realoran](realoran.md)  / redbird /  [remo](remo.md)  /  [renfrew](renfrew.md)  / rhynn / rippley eressene / rib / rogue d. m. /  [roland](roland.md)  / rommel / roxanne / sacatea / st. luces / salt peter / samuel / samuel of llewghund / san diego lightfoot sue / sathonys / sauron /  (mailto:q__continuum@msn.com)  /  (mailto:deborah.gadzikowski@castelle.com)  / set /  [seth](seth.md)  / severian / severian necrodemius iii /  [shalomnis](shalomnis.md)  /  [shan_shanagate](shan_shanagate.md)  / sherezade / simon almustafa / sinead of halifren duchy / sister moon / son of wink / sozuo / speaker lorelin / spice / star / starguard / stirling trinrose / tak of the archives / talbot /  [tanngrisnir](tanngrisnir.md)  / telaar flamedancer / tenser /  [muses](muses.md)  / thiebaud /  [threnody](threnody.md)  /  [threnody](threnody.md)  / timor / tiresias / tloluvin / tobias witherspoon / trader vic / tranodeli / trent / trent of llewghund / trent the thief /  [troy](troy.md)  /  [troy](troy.md)  / troy ounces the  [halfelven](halfelven.md)  / truthsay garfield / typhon equis noir / v / vannik / vlad tepes / vladimir tepes drakulya / vodalus / vosh / vosh of llewghund / vramin priest /  [waldann](waldann.md)  /  [waldann](waldann.md)  /  [waldann](waldann.md)  / walking dude /  [wedge](wedge.md)  / werdna / whitebonce / william / william of llewghund / wink /  [openroad](openroad.md)  / xcalis regence / xcalis regence i / yagyavelrya /  [yama](yama.md)  /  [yama](yama.md)  / ye'cind 
+
+
+
+
+
+ 
+
+|  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
+| ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
+
+
+
+
+
+
+
+ 
+#### 
+
+
+
+
+
+
+
+  [abelard](abelard.md) , a good man /  [almitra](almitra.md) , chaos mistress /  [anael](anael.md) , winged woman /  [archmage](archmage.md)  simulacrum of hallenrakenthaller /  [barney](barney.md) , the party-play mind flayer /  [besgar](besgar.md) , god of secrets /  [blacksword](blacksword.md) , the phoenix /  [callahan](callahan.md) , barkeep /  [champion](champion.md)  /  [chrysofar](chrysofar.md)  /  [clio](clio.md) , muse of something /  [corian](corian.md) , morgan la faye's lover /  [crimson](crimson.md) , thief /  [damon](damon.md) , dwarfgod /  [dare](dare.md) , first dancer /  [darkagnes](darkagnes.md) , the eldest /  [darkblade](darkblade.md) , gebbeth of niteblade /  [deathgod](deathgod.md)  /  [dhruva](dhruva.md) , god without hope /  [digriz](digriz.md) , fire rat roke mage /  [dira](dira.md) , reborn as seth celloson /  [dorshall](dorshall.md) , brein mark bladesman /  [dworkin](dworkin.md)  /  [ender](ender.md)  /  [eressea](eressea.md)  the far traveller, light of the world /  [erin](erin.md) , komori no te, erin the copper /  [x](x.md) , last defender of troad /  [hal](hal.md) , the games authority /  [halfelven](halfelven.md) , full of magic, void of fun /  [hektor](hektor.md) , defender of troad /  [hermione](hermione.md) , thief /  [highone](highone.md)  /  [kalkin](kalkin.md)  the binder /  [kayleigh](kayleigh.md)  /  [klew](klew.md)  /  [klinure](klinure.md) , muse of dreams /  [knock](knock.md)  /  [ko](ko.md)  /  [krimtag](krimtag.md)  /  [FIXME: lilith](lilith.md)  /  [maja](maja.md)  /  [melisse](melisse.md)  /  [mestea_elf](mestea_elf.md) , misty lios /  [mewick](mewick.md)  /  [mollon](mollon.md) , bladesinger of the qua'al /  [morgan](morgan.md)  / muriel  [muriel_note](muriel_note.md) ,  [muriel_note2](muriel_note2.md)  /  [necrodemus](necrodemus.md)  /  [nemesis](nemesis.md)  /  [neo](neo.md)  /  [niteblade](niteblade.md)  /  [oberon](oberon.md) , god of flux /  [petros](petros.md)  /  [prince1000](prince1000.md)  /  [quaal](quaal.md) , elf lord /  [rachels_tale](rachels_tale.md)  /  [reach](reach.md)  /  [realoran](realoran.md)  /  [remo](remo.md)  /  [renfrew](renfrew.md)  /  [sonson](sonson.md)  /  [roland](roland.md)  /  [seth](seth.md)  /  [shan_shanagate](shan_shanagate.md)  /  [sharra](sharra.md) , of cathal /  [sheherezade](sheherezade.md) , kwisatz haderach /  [shelgrim](shelgrim.md) , poet of astronomy /  [shalomnis](shalomnis.md) , dragon goddess /  [simon](simon.md) , son of chaos / taimarra  [taimarra_0](taimarra_0.md) ,  [taimarra_1](taimarra_1.md)  /  [talaar](talaar.md)  outworld dark angel and mage /  [talin](talin.md)  ninja who came back /  [FIXME: tangrisnir](tangrisnir.md) , another damn troy /  [petros_tarkin](petros_tarkin.md) , grand moff /  [terpsichore](terpsichore.md) , muse of dance /  [threnody](threnody.md)  /  [tiresias](tiresias.md) , father time, poet of history /  [traveller](traveller.md)  /  [troy](troy.md) , magic user extraordinaire /  [typhon](typhon.md)  the dark horse /  [waldann](waldann.md)  /  [x](x.md)  /  [xcalis](xcalis.md)  /  [yama](yama.md)  
+
+
+
+
+
+ 
+
+|  [sentient](sentient)  |  [terpsichore](terpsichore)  |  [wild](wild)  |  [compact](compact)  |  [legend](legend)  | 
+| ---------------------- | ---------------------------- | -------------- | -------------------- | ------------------ | 
+
+
+
+
+
+
+
+ 
+
+| personalities |  [places](places.md)  |  [things](things.md)  |  [events](events.md)  | 
+| ------------- | --------------------- | --------------------- | --------------------- | 
+
+
+
+ (mailto:worlorn-webmaster@gadzikowski.com) 
+
+
+### missing something you want to see?
+
+
+
+
+
+
+
+
+########## this page copyright © 1997–1998 mark gilbert gadzikowski
+
+all rights reserved

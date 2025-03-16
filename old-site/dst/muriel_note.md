@@ -1,0 +1,112 @@
+![dancer](assets/dancer.gif)
+
+# note to muriel
+
+
+
+ girl talk
+
+![xparent](assets/xparent.gif)  
+
+
+```
+		
+Date: Thu, 14 Oct 1999 16:14:33 -0700
+From: Threnody
+TO: Muriel
+Subject: Re: need the info
+hey Muriel grrrl, whasssup?  
+that hobbit dude, Crimson Grey, is like helping out this other dude named
+Simon. it's sort of like a magical scavenger hunt. Simon sends Crimson to
+find twenty different things.
+you see, this guy Simon is walking in this magical maze called the Pattern.
+it's a weird Hall of Mirrors. there are twenty special magic mirrors showing
+twenty special reflections. each time Simon sees a special kind of magic
+mirror, the hobbit dude Crimson has to find the place the mirror views,
+and see it for real. 
+like you know when the evil queen says, "mirror mirror on the wall, who's
+the fairest one of all?" then her mirror, it like, talks back to the evil
+queen, proves he's a peeping tom on sleeping beauty or snow white or whatever
+chick? well, Simon's twenty magic mirrors see more than just the twenty hottest
+chicks. Simon's mirrors also see the twenty most studly beefcakes, and
+more: twenty best vacation hot spots, and twenty killer wicked swords, and a
+lot of other sets of twenty best-of-the-bunch kinds of things. 
+all these twenty places and swords and hunks are all outside the Hall of
+Mirrors, and some are WAY FAR away, so Crimson dude has a lot of ground
+to cover in order to see them at the same time Simon sees them in the
+mirror.
+but this Crimson dude, he doesn't, like, know about the hot chicks or
+studly hunks, and he's just learning about the vacation spots. so far
+all Crimson dude really knows about for sure is twenty honking deadly
+morganti swords, one is a part of each mirror. so instead of vacationing
+in the 20 coolest beaches and touring the 20 most neato castles of the
+world, this Crimson hobbit dude is spending all his time like tracking
+down the 20 wicked swords and hoping none of them get stuck in his heart.
+you know? 
+anyways, the bad shit hits the fan if Simon gets to one of them Magic
+Mirrors and Crimson's not out there seeing with his naked eyes what the
+special mirror reflects. if this happens then Simon's mirror ... traps
+Simon inside. forever. well, a long time. real long time. nearly forever.
+and when he gets out, he's pissed.
+so if Simon is trapped, then he won't be able to save the world from the
+army of Illithids. you know, Illithids, those yukki things that ate the
+brains of the Crimson Hobbit Dude, and those two other unlucky dudes that
+were hanging around the wrong place at the wrong time when i sent you to
+spy for me last Halloween.
+so for this Halloween, like, i'll send you out again to help them find one
+of the worstest of the bad ass killer wicked swords. Halloween is a very
+bad time to look for these morganti swords; just to keep them safe, so
+i'll let you take along a can of whup-ass, and when the going gets tough,
+you take out that can, drink it down, and then you can whup-ass on who ever
+bad guys stand in your way.
+Kapish? 
+greater princess of the evil drow devils,
+your queen,
+Threnody
+P.S. great buns on that bartender; good choice. 
+At 04:54 PM 10/3/99 -0700, Muriel wrote:
+>Hiya gal,
+>        So what is this hobbit dude up to? and why in the hell is he trying
+>to bother me while I'm on VACAY? I was like SO in the middle of seducing
+>this young bartender at the Happy Toad. I had to totally ignore my little
+>hobbit friend- hope things went sooper dooper- but if not- too bad soo sad.
+>Anyhoo I just was wondering what that was all about. If you know maybe, now
+>that I've had my way with the barkeep ( and not too mention secured a
+>lifetime of free beer :)  - I  can get of my very satisfied ass [don't give
+>me that look until you've tried it] and help.  BTW I need some info on all
+>this bull shit anyway. I am a little confused on the whole walking the
+>spiral thing or what ever this simon guy is doing. And what in the hell can
+>I do to fight? I am like So bored with just using my sexual talents- I
+>totally need to excercise my sword weilding skills to smash and crash - and
+>slice and dice!!!!!!! Please give me a task or something. And is this whole
+>thing what we want? I mean hell what is the point in helping these guys if
+>we have no personal stake in it? I don't know. Just tell me everything you
+>can. ( Morin just appeared, looked over my shoulder, and muttered to himself
+>"spiral thing?"- and then disappeared - I don't know he's a freaky thing
+>don't you know. Somebody that indifferent just puts me on edge sometimes.
+>He's always just popping in and out nd muttering- he's just a freak of
+>nature.) But I digress. What I am talkin' about is info. Your the boss have
+>the info - I'm the flunky need the info. Help me out - oky doky? talk to ya
+>soon.
+>
+>love ya bye,
+>Muriel
+		
+	
+```
+
+ 
+
+ (mailto:worlorn-webmaster@gadzikowski.com) 
+
+ 
+### missing something you want to see?
+
+
+
+ [top](#top) 
+
+ 
+########## this page copyright © 1999 mark gilbert gadzikowski
+
+ all rights reserved

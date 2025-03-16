@@ -1,0 +1,71 @@
+![pattern](assets/pattern.gif)
+
+# Overheard
+
+
+
+ inter-turf traffic inspired by  [dustinthewind](dustinthewind.md)
+
+![xparent](assets/xparent.gif)  the following information was exchanged between  [goldcard](goldcard.md)  during the recent Dustiness, as detected by  [oimota](oimota.md) . 
+ 
+
+
+
+
+
+
+
+ 
+
+|  1. [dust9911161114chrysofar](dust9911161114chrysofar.md) 1. [dust9911162034kalkin](dust9911162034kalkin.md) 1. [dust9911162302yama](dust9911162302yama.md) 1. [dust9911171431theseus](dust9911171431theseus.md) 1. [dust9911171434eressea](dust9911171434eressea.md) 1. [dust9911171511almitra](dust9911171511almitra.md) 1. [dust9911171603oimota](dust9911171603oimota.md) 1. [dust9911171607dhruva](dust9911171607dhruva.md) 1. [dust9911171815starchamber](dust9911171815starchamber.md) 1. [dust9911180111melisse](dust9911180111melisse.md) 1. [dust9911180651starchamber](dust9911180651starchamber.md) 1. [dust9911180853chrysofar](dust9911180853chrysofar.md) 1. [dust9911180857chrysofar](dust9911180857chrysofar.md) 1. [dust9911180912chrysofar](dust9911180912chrysofar.md) 1. [dust9911181049tanngrisnir](dust9911181049tanngrisnir.md) 1. [dust9911181108chrysofar](dust9911181108chrysofar.md)  |  1. [dust9911181109_chrysofar](dust9911181109_chrysofar.md) 1. [dust9911181109chrysofar](dust9911181109chrysofar.md) 1. [dust9911181138starchamber](dust9911181138starchamber.md) 1. [dust9911181233melisse](dust9911181233melisse.md) 1. [dust9911181406chrysofar](dust9911181406chrysofar.md) 1. [dust9911181626starchamber](dust9911181626starchamber.md) 1. [dust9911181739blacksword](dust9911181739blacksword.md) 1. [dust9911181805llewella](dust9911181805llewella.md) 1. [dust9911182151damon](dust9911182151damon.md) 1. [dust9911190031tanngrisnir](dust9911190031tanngrisnir.md) 1. [dust9911190156yama](dust9911190156yama.md) 1. [dust9911190837starchamber](dust9911190837starchamber.md) 1. [dust9911191114yama](dust9911191114yama.md) 1. [dust9911191220kalkin](dust9911191220kalkin.md) 1. [dust9911191647pyre](dust9911191647pyre.md) 1. [dust9911191757chrysofar](dust9911191757chrysofar.md)  |  1. [dust9911191809chrysofar](dust9911191809chrysofar.md) 1. [dust9911191820yama](dust9911191820yama.md) 1. [dust9911191823tanngrisnir](dust9911191823tanngrisnir.md) 1. [dust9911191903hermione](dust9911191903hermione.md) 1. [dust9911192037kalkin](dust9911192037kalkin.md) 1. [dust9911192201chrysofar](dust9911192201chrysofar.md) 1. [dust9911192218chrysofar](dust9911192218chrysofar.md) 1. [dust9911200132besgar](dust9911200132besgar.md) 1. [dust9911200753kalkin](dust9911200753kalkin.md) 1. [dust9911211032kalkin](dust9911211032kalkin.md) 1. [dust9911211317kalkin](dust9911211317kalkin.md) 1. [dust9911212000hermione](dust9911212000hermione.md) 1. [dust9911220018tanngrisnir](dust9911220018tanngrisnir.md) 1. [dust9911221108melisse](dust9911221108melisse.md) 1. [dust9911221133melisse](dust9911221133melisse.md) 1. [dust9911221216chrysofar](dust9911221216chrysofar.md)  |  1. [dust9911221330starchamber](dust9911221330starchamber.md) 1. [dust9911221342starchamber](dust9911221342starchamber.md) 1. [dust9911221418starchamber](dust9911221418starchamber.md) 1. [dust9911222053kalkin](dust9911222053kalkin.md) 1. [dust9911230115threnody](dust9911230115threnody.md) 1. [dust9911230217threnody](dust9911230217threnody.md) 1. [dust9911230227locnar](dust9911230227locnar.md) 1. [dust9911230846damon](dust9911230846damon.md) 1. [dust9911231010chrysofar](dust9911231010chrysofar.md) 1. [dust9911231013chrysofar](dust9911231013chrysofar.md) 1. [dust9911231754greyson](dust9911231754greyson.md) 1. [dust9911240004hermione](dust9911240004hermione.md) 1. [dust9911241034kalkin](dust9911241034kalkin.md) 1. [dust9911252005blood](dust9911252005blood.md) 1. [nirvanna](nirvanna.md)  | 
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+
+ 
+
+
+
+
+
+ 
+ ![xparent](assets/xparent.gif)   [dominions](dominions.md)  who continue to exchange matter or energies with  [domains](domains.md)  risk punishment by  [compact](compact.md)  Law  [632](632.md) . 
+
+
+ ![xparent](assets/xparent.gif)  For example, Oimotan Turfs must never again exchange information with these turfs and wastelands until you can find them named within the valid *Book of the New Day*.
+
+
+
+* Unnamed Wastelands (this means *you*,  [yama](yama.md)  and  [hermione](hermione.md) )
+* [neo](neo.md)  Goodknight’s  [starchamber](starchamber.md)  (Many infractions, most notably *you*, Theseus)
+* Besgar Knightshade’s  [cradle](cradle.md)  (Many infractions, including  [almitra](almitra.md) ,  [chrysofar](chrysofar.md) ,  [damon](damon.md) , and  [dhruva](dhruva.md) )
+* Locnar’s indefinite turf
+
+ 
+ ![xparent](assets/xparent.gif)  If you need something, make these turfs send messengers, but **never** respond to them directly. 
+
+
+ ![xparent](assets/xparent.gif)  The Compact will tear your Gold Card from your sentient's possession. It will then imprison your Inspiration until the next Cycle if you're lucky, or Unmake you forever if you're not lucky. You want that? 
+
+
+ ![xparent](assets/xparent.gif)  All it takes is for one of the unmentioned unmentionables to contact you and ANY Gold Card can Invoke the Compact 6.3.2 if you reply. This isn't Oimota being mean, this isn't the High One being mean. This is ANY of the non-Compact turfs laying a trap and you falling for it. 
+
+
+ ![xparent](assets/xparent.gif)  You have been warned. I can't protect you from your mistakes if you keep SECRETS from Oimota. I wash my hands. 
+
+
+- [highone](highone.md)  
+
+
+
+ (mailto:worlorn-webmaster@gadzikowski.com) 
+
+ 
+### missing something you want to see?
+
+
+
+ [top](#top) 
+
+ 
+########## this page copyright © 1999 mark gilbert gadzikowski
+
+ all rights reserved

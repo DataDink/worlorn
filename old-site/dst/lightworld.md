@@ -1,0 +1,88 @@
+![wsun](assets/wsun.gif)
+
+# light of the world
+
+
+
+threnody's great work
+
+### **Subject: Threnody's dark night of the soul
+
+ Date: Tue, 25 Apr 95 16:00:45 PDT**
+
+ 
+ for most, there is just the dream 
+
+
+
+---
+
+ It is late in the afternoon, but it might as well be midnight or dawn, miles underground at the center of the universe. Erin is at the heart of the earth, hobnobbing in strong company; credentials include two gods, three Roke mages, three great-weapon wielders, a morganti holder, a lesser-elemental, and three iahklu. Not bad for a group of four. But to this point, the fancy credentials have produced no discernable results. 
+ The heat of the discussion grows until Erin needs a walk. Leaving the Wizard diGriz and Damon Maker to discuss the finer points of animating ashen bodies --assuming Tiresias provides KO's phlogisten-- Erin finds himself followed by Threnody. They walk in silence past blissful huldra pilgrims: dwarves that have enough prestige or honor to be present in the Homehall of their god. 
+
+
+ The curved walls echo continuously with the sound of hammer-on-anvil from down one tunnel or another; the statuary and paintings lining the ways all flicker in the torchlight. Deep voices, even from the women, murmur constantly. The dwarven words pause only when the elves pass, to resume when Erin and Threnody are no longer present. The two elves walk long corridors with no particular destination, content to be away from the problem of returning a Destroyed Greater God to health in his proper form. 
+
+
+ "I'm still not used to that," says Threnody, discretely nodding at a pretty female dwarf escorted by a half-dozen males. "Champion never gave dwarf women a thought when he came to Troad. He was certainly a one-track Maker. I like Damon's humanity." 
+
+
+ "You've changed from when I knew you, too," Erin observes. 
+
+
+ They walk in silence after that. Just about the time Erin thinks to start a new topic, Threnody sighs and speaks. "Erin, no one knows me. In the last decade hundreds of men and even a few women 'knew' I was Llewellyn ap-Owen, and became dead-wrong when they tested me." Threnody stops walking until Erin turns and their eyes meet. "I am not that creature. Don't you too make that mistake. I WILL NOT be Llewellyn ap-Owen, although I must now always be the Phoenix." Threnody smiles to break the mood. He extends his hand to shake Erin's. "Pleased to meet you, Erin." 
+
+
+ The men shake hands as quickly as Erin realizes Threnody requires it. 
+
+
+ Erin says, "There's something about you I do know, no matter what you say. A part of me was Dorian Hawkmoon. I've met YOU before, seen your essence, been awed by your Roke Mastery and unspent potential, your hidden soul. Even if we don't recognize each other's faces, we have met before. I know YOU. We have been friends before, Threnody." 
+
+
+ They walk onwards, through deep pathways. 
+
+
+ "His greatest fear wasn't eternally squirming on the end of a morganti sword, you know." Threnody says. "His son, Gules Lyon, once told me Llew was most afraid of coming back to life as an unkillable evil, forever reborn to spread wicked justice over the worlds." Threnody chuckles. "Gules said this in anger just after he had failed with a 'know alignment' on me. I didn't know whether to laugh or spit in his face." Threnody frowns and shrugs, rubbing his wrist. 
+
+
+ "Erin, I _am_ Llew's greatest nightmare. Well, that's not exactly a right word. His REAL nightmare is a good man." He thumps his chest. "I hope not to be evil, but I'm certainly not valid Circle of Light material. I often _relish_ my vorpal weapons, and seek to kill with them: sometimes in spite, and sometimes from malice, and once last year I killed to hide a secret." Threnody purses his lips and pauses a moment before continuing. 
+
+
+ "Despite my mocking prose: of all the iahklu alive, perhaps I know best why you chose to keep Dolkris' evil. I think, I think I could have done the same in your place!" Threnody sighs, and holds his hands palms upwards, turning a corner. "There is a part of me that 'cries in the night/like a losted child.' I can't give up my past, I can't run from my legacies, neither the good ones nor the evil, no matter the wish of my heart." 
+
+
+ The two elves arrive at an opening in the tunnel: a stone rail, a great balcony overlooking the main smithy of New Kaldamaaren. From a height of two storeys. the elves overlook anvils set thirty rows by thirty rows filling the chamber below. The wisdom and craft of the stonefolk show most obviously in the thin columns of smoke and steam rising swiftly to the ducts above, instead of clouding the room. Of 900 anvils, only the largest one in the center is unused, but the air is clear enough to read the runes on the far wall. 
+
+
+ "What I Made back there with my Aspect and my Attribute," Threnody says. "That thing. That obscenity, that eternal flame which Damon calls 'the world's light.' Is shape truly in the form of Troy's Pattern? Truly?" Threnody turns back to the view of New kaldamaaren. "Neither of the others would know, but you, you're kin; you must, you do know. I saw that in your face. You've been there." 
+
+
+ Threnody's voice drops to a whisper at the last words, eyes searching Erin's face desperately, not wanting the answer, but needing the truth. Erin nods. "I've been there, as Erin. I was trapped there. That --pretzel-- around the flame, the living wood you twisted so casually, so intricately, so beautiful . . . I've been there, inside of it. It is Troy's Pattern, in wood, with more perfect clarity than I've ever seen outside the chamber beneath Ilium." 
+
+
+ "Then it must be true..." Threnody whispers, and leans out, elbows on the rail, "The light of the world." he says. "A beacon . . ." 
+
+
+ The two men share a silent hour looking at the finest dwarven smiths, mortal Makers who will never create anything so utterly worthless, so immeasurably valuable as a forever-burning fire enclosed by the shape of a broken dream. The two stare out over the forges, the hammers, the anvils. The elves make thoughts come and go inside their heads while a thousand new things are made on the iron forges below. 
+
+
+ "Did you study Troy's Pattern at Roke?" Erin asks. 
+
+
+ "No, I first found it long before Roke," Threnody says, strangely resolute. He turns from the scene below to regard Erin impassively, yet with dried tears tracing down from his eyes. He touches Erin's arm, bows his head and pauses as if to speak, but instead shakes his head and walks slowly away. 
+
+
+
+ (mailto:worlorn-webmaster@gadzikowski.com) 
+
+
+### missing something you want to see?
+
+
+
+ [top](#top) 
+
+
+########## this page copyright © 1997–1998 mark gilbert gadzikowski
+
+all rights reserved
