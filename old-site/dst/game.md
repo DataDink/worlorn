@@ -6,6 +6,7 @@ knowing the dancer from the dance
 
 |  [dance](dance.md)  |  [dreams](dreams.md)  |  [history](history.md)  |  [astronomy](astronomy.md)  |  [comedy](comedy.md)  | 
 | ------------------- | --------------------- | ----------------------- | --------------------------- | --------------------- | 
+| •                   | •                     | •                       | •                           | •                     | 
 
  -greyson
 
@@ -25,5 +26,6 @@ knowing the dancer from the dance
 
 |  [game](game.md)  |  [moves](moves.md)  |  [players](players.md)  |  [hosts](hosts.md)  |  [x](x.md)  | 
 | ----------------- | ------------------- | ----------------------- | ------------------- | ----------- | 
+| •                 | •                   | •                       | •                   | •           | 
 
  

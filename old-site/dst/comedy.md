@@ -6,6 +6,7 @@ rise and fall of Thalia
 
 |  [dance](dance.md)  |  [dreams](dreams.md)  |  [history](history.md)  |  [astronomy](astronomy.md)  | **comedy** | 
 | ------------------- | --------------------- | ----------------------- | --------------------------- | ---------- | 
+| •                   | •                     | •                       | •                           | •          | 
 
  alleged scenes inspiring the *Rules of the Game*. 
 

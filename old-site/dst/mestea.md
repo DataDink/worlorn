@@ -28,6 +28,7 @@ The Island of the Yellow Rose
 
 |  ![mestea](assets/mestea.gif)  |  ![mestea-legend](assets/mestea-legend.gif)  | 
 | ------------------------------ | -------------------------------------------- | 
+| •                              | •                                            | 
 
  [top](#top) 
 >

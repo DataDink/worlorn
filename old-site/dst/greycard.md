@@ -6,6 +6,7 @@ artifacts
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
+| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
 
 ### grey card strange attractors
 
@@ -53,5 +54,6 @@ archetypical or purposeful magic
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
+| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
 
  

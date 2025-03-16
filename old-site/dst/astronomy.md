@@ -6,6 +6,7 @@ rise and fall of Urania
 
 |  [dance](dance.md)  |  [dreams](dreams.md)  |  [history](history.md)  | **astronomy** |  [comedy](comedy.md)  | 
 | ------------------- | --------------------- | ----------------------- | ------------- | --------------------- | 
+| •                   | •                     | •                       | •             | •                     | 
 
 alleged zeniths inspiring shelgrim
 

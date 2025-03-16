@@ -6,6 +6,7 @@ attribute of an archetype
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
+| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
 
 ### gold card strange attractors
 
@@ -25,5 +26,6 @@ worlorn system's irresistable forces
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
+| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
 
  

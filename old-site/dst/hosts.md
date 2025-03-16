@@ -6,6 +6,7 @@ knowing the traitors from the dream
 
 |  [game](game.md)  |  [moves](moves.md)  |  [players](players.md)  |  [hosts](hosts.md)  |  [x](x.md)  | 
 | ----------------- | ------------------- | ----------------------- | ------------------- | ----------- | 
+| •                 | •                   | •                       | •                   | •           | 
 
 - [chrysofar](chrysofar.md) 
 

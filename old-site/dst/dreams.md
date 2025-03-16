@@ -6,6 +6,7 @@ rise and fall of Klinure
 
 |  [dance](dance.md)  | **dreams** |  [history](history.md)  |  [astronomy](astronomy.md)  |  [comedy](comedy.md)  | 
 | ------------------- | ---------- | ----------------------- | --------------------------- | --------------------- | 
+| •                   | •          | •                       | •                           | •                     | 
 
 **alleged REM activity inspiring * [ells](ells.md) ***
 

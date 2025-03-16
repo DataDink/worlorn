@@ -163,7 +163,7 @@ function formatTable(element) {
       .replace(/\s+/g, ' ')
     ));
   if (rows.length < 1) { return ''; }
-  if (rows.length < 2) { rows.push(rows[0].map(cell => '')); }
+  if (rows.length < 2) { rows.push(rows[0].map(cell => '•')); }
   var cols = [...new Array(Math.max(...rows.map(row => row.length)))]
     .map((_,col) => Math.max(...rows.map(row => row[col]?.length ?? 0)))
     .map(width => Number.isFinite(width) ? width : 0);

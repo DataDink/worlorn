@@ -6,6 +6,7 @@ i never meta-change i didn't like
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
+| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
 
 ### stamped white cards
 
@@ -23,5 +24,6 @@ stranger attractors than most
 
 |  [cards](cards.md)  |  [carduse](carduse.md)  |  [greencard](greencard.md)  |  [orangecard](orangecard.md)  |  [bluecard](bluecard.md)  |  [pinkcard](pinkcard.md)  |  [greycard](greycard.md)  |  [mintcard](mintcard.md)  |  [goldcard](goldcard.md)  |  [yellowcard](yellowcard.md)  | 
 | ------------------- | ----------------------- | --------------------------- | ----------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------------- | 
+| •                   | •                       | •                           | •                             | •                         | •                         | •                         | •                         | •                         | •                             | 
 
  
