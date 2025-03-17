@@ -16,7 +16,11 @@ Worlorn storylines incorporate recognizable legends from historical reality and 
 
 You can help keep things up to date! 
 
-This site is hosted on [github](https://github.com/DataDink/worlorn). To make changes or add a new file you can open a [pull-request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes to be approved by a moderator. There are no special skills required to contribute. The pages of this site are written in plain-text using [github-flavored MARKDOWN](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to keep things simple and accessible.
+This site is hosted on [github](https://github.com/DataDink/worlorn). 
+To make changes or add a new file you can open a [pull-request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) 
+with your changes to be approved by a moderator. 
+There are no special skills required to contribute. 
+The pages of this site are written in plain-text using [github-flavored MARKDOWN](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to keep things simple and accessible.
 
 The simplest steps for contributing:
 
@@ -27,3 +31,20 @@ The simplest steps for contributing:
 * Make a pull-request with your changes.
 
 ![pull request screen shot](site/images/pull-request-ss.jpg)
+
+## Legacy Content
+
+The legacy content from the original site has been converted to 
+[markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+and deposited in the [old-site](https://github.com/DataDink/worlorn/tree/main/old-site/dst) folder.
+Much of the site is still pulling the legacy content which is being 
+cleaned up, bit by bit, and transfered over to the new content.
+These files are auto-generated and shouldn't be edited.
+If you want to clean up an existing file, make sure to save your changes to the current content.
+
+## Current Content
+
+Anything new belongs in the current [site](https://github.com/DataDink/worlorn/tree/main/site) folder.
+The page layout can be updated in the [default.html](https://github.com/DataDink/worlorn/blob/main/_layouts/default.html) file.
+
+![directories](site/images/github-directories.png)
